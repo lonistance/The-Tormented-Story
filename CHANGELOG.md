@@ -1,5 +1,13 @@
 # Changelog
 
+**#8 (2026-08-17) — Volume 1 complete: Chapter 7《离别故乡》(final chapter) drafted**
+- **Content**: appended to `第一卷 血痕之子.md` — the dawn departure: telling his parents the night before, mother's mended clothes and the still-warm dry food silently added to the bundle, the re-tied charm knot, passing the millstone/sun-field/the tree at the edge, the words spoken to the mist at the village gate ("等我回来。当我足够强大时，你们会知道我不是灾厄。"), mother Serin leaning on the doorframe without waving, father's absence, walking south alone — and the cruelty after he is gone: the village relaxing, no one mentioning his name, the stone moved away; priest Toren watching the southern road. Volume-ending narrator lines close the arc (fear not weakness rejects him; the "等我回来" that will one day be too late).
+- **Docs**: `README.md` — Volume 1 marked complete (7/7 chapters).
+- **Next**: Volume 2《持剑的孩子》— first chapter《来自远方的陌生人》.
+- **Verification**: UTF-8 no BOM.
+
+---
+
 **#7 (2026-08-17) — Volume 1 Chapter 6《预言的误解》drafted**
 - **Content**: appended to `第一卷 血痕之子.md` — spring of Kael's 12th year: he overhears the elders' meeting behind the granary ("不能让他留下" / "谁去说？" — no one will take responsibility; priest Toren's "'不说'，也是一种话"); the deepening silent ostracism (no one calls his name, the unnamed dry-food-and-shoes parcel sized for his father's feet left at the door, Melly pulled back behind the curtain); his questions to the tribe that go unanswered; father Gar's one and only facing of the truth ("你什么都没做错"); Serin's "我们可以走" refused by Kael ("我又没做错"); and the night he makes his first big choice: "如果你们害怕现在的我，那我就成为你们无法忽视的人。" Source settings preserved.
 - **Docs**: `README.md` — Volume 1 status updated to Chapters 1–6.
