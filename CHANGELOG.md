@@ -1,5 +1,13 @@
 # Changelog
 
+**#7 (2026-08-17) — Volume 1 Chapter 6《预言的误解》drafted**
+- **Content**: appended to `第一卷 血痕之子.md` — spring of Kael's 12th year: he overhears the elders' meeting behind the granary ("不能让他留下" / "谁去说？" — no one will take responsibility; priest Toren's "'不说'，也是一种话"); the deepening silent ostracism (no one calls his name, the unnamed dry-food-and-shoes parcel sized for his father's feet left at the door, Melly pulled back behind the curtain); his questions to the tribe that go unanswered; father Gar's one and only facing of the truth ("你什么都没做错"); Serin's "我们可以走" refused by Kael ("我又没做错"); and the night he makes his first big choice: "如果你们害怕现在的我，那我就成为你们无法忽视的人。" Source settings preserved.
+- **Docs**: `README.md` — Volume 1 status updated to Chapters 1–6.
+- **Next**: Chapter 7《离别故乡》(final chapter of Volume 1).
+- **Verification**: UTF-8 no BOM.
+
+---
+
 **#6 (2026-08-17) — Volume 1 Chapter 5《渴望认可》drafted**
 - **Content**: appended to `第一卷 血痕之子.md` — from age 8 to ~12: secret dawn training with branches by the forest fence, night balance drills, learning tracking by tailing the hunters; the tribe distancing further with every leap in skill (the silent-ostracism loop: 孤独→训练→强大→更孤独); Serin's "你为什么非要证明？"; the scrap iron from Mey's smith father ("别让她哭") ground over one autumn into the first crude sword; Gar's twelve days of archery ("箭离弦之前，手要稳"); the night whisper "只要我够强，他们就会知道我不是灾厄"; and the wind carrying away the words "……不能让他留下". Source settings preserved.
 - **Docs**: `README.md` — Volume 1 status updated to Chapters 1–5.
