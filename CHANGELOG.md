@@ -1,5 +1,13 @@
 # Changelog
 
+**#6 (2026-08-17) — Volume 1 Chapter 5《渴望认可》drafted**
+- **Content**: appended to `第一卷 血痕之子.md` — from age 8 to ~12: secret dawn training with branches by the forest fence, night balance drills, learning tracking by tailing the hunters; the tribe distancing further with every leap in skill (the silent-ostracism loop: 孤独→训练→强大→更孤独); Serin's "你为什么非要证明？"; the scrap iron from Mey's smith father ("别让她哭") ground over one autumn into the first crude sword; Gar's twelve days of archery ("箭离弦之前，手要稳"); the night whisper "只要我够强，他们就会知道我不是灾厄"; and the wind carrying away the words "……不能让他留下". Source settings preserved.
+- **Docs**: `README.md` — Volume 1 status updated to Chapters 1–5.
+- **Next**: Chapter 6《预言的误解》.
+- **Verification**: UTF-8 no BOM.
+
+---
+
 **#5 (2026-08-17) — Volume 1 Chapter 4《第一次展现天赋》drafted**
 - **Content**: appended to `第一卷 血痕之子.md` — the hungry-wolf night raid on Emberstone (Kael, age 8, at the neglected edge of the village, grabs the door bar and shields four cornered children — Luen who had mocked him included; his dark-elf instinct and night sight explode, the pack retreats, he collapses; waking to silence, no cheers, priest Toren's "果然。灾厄拥有力量", his unheard "我……保护了他们", mother Serin crying from fear not joy; the wolf blood seeping into the mark; only Melly still waves at him). Source settings preserved.
 - **Docs**: `README.md` — Volume 1 status updated to Chapters 1–4.
