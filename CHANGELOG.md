@@ -1,5 +1,13 @@
 # Changelog
 
+**#4 (2026-08-17) — Volume 1 Chapter 3《虚弱的孩子》drafted**
+- **Content**: appended to `第一卷 血痕之子.md` — Kael's sickly childhood (the heavy fever with the mark deepening, father Gar's fall while herb-gathering, watching other children from the window, mother Serin teaching herbs and stars, the one attempt to join the game "追风" that ends with a scraped knee and no one looking back, learning to swallow pain, and her words "活着，然后回家"). Source settings preserved.
+- **Docs**: `README.md` — Volume 1 status updated to Chapters 1–3.
+- **Next**: Chapter 4《第一次展现天赋》.
+- **Verification**: UTF-8 no BOM.
+
+---
+
 **#3 (2026-08-17) — Volume 1 Chapter 2《被恐惧的孩子》drafted**
 - **Content**: appended to `第一卷 血痕之子.md` — Kael's infancy and early childhood in Emberstone (tribe's silent ostracism "被让开的位置", father Gar's one argument with the elders, priest Toren's monthly watch, dark-elf lullaby, learning to walk alone, first "灾厄之子" taunt, Mey's question "你为什么和我们不一样" with Kael's "我……不知道", and mother Serin sewing the talisman that carries her unsaid words "你值得被爱"). Source settings preserved.
 - **Docs**: `README.md` — Volume 1 status updated to Chapters 1–2.
