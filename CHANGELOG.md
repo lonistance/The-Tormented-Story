@@ -1,5 +1,13 @@
 # Changelog
 
+**#3 (2026-08-17) — Volume 1 Chapter 2《被恐惧的孩子》drafted**
+- **Content**: appended to `第一卷 血痕之子.md` — Kael's infancy and early childhood in Emberstone (tribe's silent ostracism "被让开的位置", father Gar's one argument with the elders, priest Toren's monthly watch, dark-elf lullaby, learning to walk alone, first "灾厄之子" taunt, Mey's question "你为什么和我们不一样" with Kael's "我……不知道", and mother Serin sewing the talisman that carries her unsaid words "你值得被爱"). Source settings preserved.
+- **Docs**: `README.md` — Volume 1 status updated to Chapters 1–2.
+- **Next**: Chapter 3《虚弱的孩子》.
+- **Verification**: UTF-8 no BOM.
+
+---
+
 **#2 (2026-08-17) — Volume 1 Chapter 1 draft; per-volume document structure established**
 - **New**: `第一卷 血痕之子.md` — Volume 1 document (one file per volume from now on), opening with volume metadata + chapter list, containing the full draft of Chapter 1《不祥的诞生》(the rain-night birth of Kael Aren in Emberstone tribe: the burning-brand birthmark, the misinterpreted prophecy, mother Serin's naming, father Gar's helplessness; source settings preserved) — details drafted per the outline; new names marked 【拟定】 in the outline, used directly in prose.
 - **Docs**: `README.md` — added per-volume document status table.
