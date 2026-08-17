@@ -1,5 +1,12 @@
 # Changelog
 
+**#11 (2026-08-17) — Volume 2 Chapter 3《骑士收养他》draft included with revision commit**
+- **Content**: the uncommitted Chapter 3 draft in `第二卷 持剑的孩子.md` rode along with the #10 revision commit (git add -A). Status: DRAFT — 23 days of traveling together, the villagers' "我家的" moment, the snake lesson ("蛇不咬不慌的人"), Kael giving his own name ("凯尔·阿伦——不会迷路的人"), the adoption offer ("同行的意思是——你把它交给我，我也把它交给你"), the tears of being accepted, the gift of a short knife with the bark inscription "凯尔，不会迷路的人", walking on the knight's left (the trusted position).
+- **Note**: deviates from the outline key line ("所有人帮我，都是因为我可能有用。" / "那你现在没有用，我为什么还在这里？") and the "师父" beat — pending review/revision per outline, like #10 was.
+- **Verification**: UTF-8 no BOM.
+
+---
+
 **#10 (2026-08-17) — Volume 2 Chapter 2《骑士没有看到怪物》drafted (revised to anchor the outline's key line)**
 - **Content**: appended to `第二卷 持剑的孩子.md` — a chapter of almost pure psychology: dawn at the ruined way station, the shoulder wound needs re-dressing, the collar slips, the birthmark meets the firelight; Kael braces for twelve years' worth of practiced fear — and the knight lights the lantern and says "天黑了，看不清路"; Kael forces the confrontation — he opens the collar wide himself and asks "你不怕我？" — and the knight's answer is the outline's key line, spoken at the fire, not at him: "我见过很多比印记更可怕的东西。" (pause) "比如一个认为自己只能成为怪物的人。" It speaks of Kael AND of the knight's own past — "能说得出'认为自己只能成为怪物'是什么滋味的人，多半自己也咽过一样长的黑夜" — left silent, per the outline's rule of restraint; then "你希望我问？" / "不希望。" / "那就不问。"; the folk wisdom taken apart ("天就是想下雨"); "我只是看见一个孩子。" — his first time being seen as a person; "我杀过的人，够我记一辈子"; Kael decides "那我不信它。我走我的路"; narrator foreshadow: the sentence will strike three times in his life — remembered, forgotten, understood at the cliff's edge (echoing the outline's Volume 6/7 closure); two shadows becoming one on the road.
 - **Next**: Volume 2 Chapter 3《骑士收养他》.
