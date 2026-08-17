@@ -1,5 +1,13 @@
 # Changelog
 
+**#9 (2026-08-17) — Volume 2 opened: Chapter 1《来自远方的陌生人》drafted**
+- **Content**: new file `第二卷 持剑的孩子.md` — Kael's half-year wandering (herbs, stars, beast-hunting, learning to keep the mark covered, the "赶路的" answer he will use for years), then his first human enemies: five starving robbers at a ruined way station; his hand trembling for the first time — hesitation's price is a wounded shoulder; the tired knight who arrives without ceremony, shows him how to grip ("孩子，剑不是这样握的"), disarms all five without drawing his own sword; the exchange "他们是敌人！" / "他们是走投无路的人。"; night by the fire, the wound dressed, "我跟你走" — "我没有别的地方可去"; first lesson seeded: letting enemies go is harder than killing them (echo of Volume 5).
+- **Docs**: `README.md` — Volume 2 status row added.
+- **Next**: Volume 2 Chapter 2《骑士没有看到怪物》.
+- **Verification**: UTF-8 no BOM.
+
+---
+
 **#8 (2026-08-17) — Volume 1 complete: Chapter 7《离别故乡》(final chapter) drafted**
 - **Content**: appended to `第一卷 血痕之子.md` — the dawn departure: telling his parents the night before, mother's mended clothes and the still-warm dry food silently added to the bundle, the re-tied charm knot, passing the millstone/sun-field/the tree at the edge, the words spoken to the mist at the village gate ("等我回来。当我足够强大时，你们会知道我不是灾厄。"), mother Serin leaning on the doorframe without waving, father's absence, walking south alone — and the cruelty after he is gone: the village relaxing, no one mentioning his name, the stone moved away; priest Toren watching the southern road. Volume-ending narrator lines close the arc (fear not weakness rejects him; the "等我回来" that will one day be too late).
 - **Docs**: `README.md` — Volume 1 marked complete (7/7 chapters).
