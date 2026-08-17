@@ -1,5 +1,13 @@
 # Changelog
 
+**#16 (2026-08-17) — Volume 2 Chapter 7《骑士的悲剧》drafted (true name in play, never pointed at)**
+- **Content**: appended to `第二卷 持剑的孩子.md` — the tragedy told as a bard's tale at the Broken Barrel in Oakton: the young "胜利者"艾德里安·瓦尔, his three vows, "邪恶必须被消灭", the river-bank victory, the general slain, peace for one winter, then the revenge-chain, the nameless burning city, the dead one he had sworn to protect — "他赢了战争，却输掉了自己的名字"; the name buried by himself. Kael listens, stores "艾德里安·瓦尔" as a stranger's name, a cautionary tale ("别走那条路" — which he will walk anyway; narrator primes his Volumes 3-4 fate only). The master's self-judgment, verbatim per plan: "艾德里安·瓦尔是个傻瓜——至少曾经是。" — "他相信，杀了恶人，恶就没有了。" Kael's answer — kill them all and hold the peace — draws the quietest of replies: "他当年，也是这么想的。" Per the true-name rule: nothing in the text ever connects the knight to the name — no physical match, no narrator confirmation (the reveal awaits Chapter 13《分别》); the only cracks for the rereader are the fool line, the still soup, and the extra coin in the bard's hat.
+- **Docs**: `README.md` — Volume 2 marked chapters 1-7 complete; `小说大纲.md` — Chapter 7 outline refined with the true-name rule.
+- **Next**: Volume 2 Chapter 8《骑士的觉悟》.
+- **Verification**: UTF-8 no BOM.
+
+---
+
 **#15 (2026-08-17) — Volume 2 Chapter 6《骑士过去的秘密》drafted**
 - **Content**: appended to `第二卷 持剑的孩子.md` — a man who never speaks of his past, spoken of everywhere: three rumors in three towns (the tavern veteran's lone knight facing an army — "后来他就不是他了"; the roadside elder's king-slayer — "他赢了好大的事，输了好大的命"; the ferryman's man who lost everything), each trailing a half-finished sentence, and all agreeing he once had a name no one dares say anymore. Kael's questions deflected with the callback line ("镇子上的人还说，天上下雨，是因为有人哭得太多了。"), the dead end "你看我像杀过国王的人吗？" — "像。" — and the name question answered "想不起来了。走了太远的路。名字落在路上了。" The nightmare night: the knight asleep with the sword half-drawn, cold sweat, two syllables — like a name, like an apology; the first time Kael sees that the fearless man fears. The outline's key line: "师父，你也有害怕的事？" — "怕。" (pause) "所以我把剑握得更稳。" Kael mishears: fear means become stronger until nothing can frighten you; the knight meant: fear, and still walk forward — the second, deeper rift. Closing narrator: years later, on a distant battlefield, Kael wakes from his own nightmare with his hand on the half-drawn sword, cold sweat, white knuckles — the generational replication of the nightmare (Volume 5), the last lesson learned when the teacher is no longer there; the teacher never found the day to say "人这一辈子，总有一两样东西，是你练到最强也赢不了的。"
 - **Docs**: `README.md` — Volume 2 marked chapters 1-6 complete.
