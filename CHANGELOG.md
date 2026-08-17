@@ -1,5 +1,13 @@
 # Changelog
 
+**#5 (2026-08-17) — Volume 1 Chapter 4《第一次展现天赋》drafted**
+- **Content**: appended to `第一卷 血痕之子.md` — the hungry-wolf night raid on Emberstone (Kael, age 8, at the neglected edge of the village, grabs the door bar and shields four cornered children — Luen who had mocked him included; his dark-elf instinct and night sight explode, the pack retreats, he collapses; waking to silence, no cheers, priest Toren's "果然。灾厄拥有力量", his unheard "我……保护了他们", mother Serin crying from fear not joy; the wolf blood seeping into the mark; only Melly still waves at him). Source settings preserved.
+- **Docs**: `README.md` — Volume 1 status updated to Chapters 1–4.
+- **Next**: Chapter 5《渴望认可》.
+- **Verification**: UTF-8 no BOM.
+
+---
+
 **#4 (2026-08-17) — Volume 1 Chapter 3《虚弱的孩子》drafted**
 - **Content**: appended to `第一卷 血痕之子.md` — Kael's sickly childhood (the heavy fever with the mark deepening, father Gar's fall while herb-gathering, watching other children from the window, mother Serin teaching herbs and stars, the one attempt to join the game "追风" that ends with a scraped knee and no one looking back, learning to swallow pain, and her words "活着，然后回家"). Source settings preserved.
 - **Docs**: `README.md` — Volume 1 status updated to Chapters 1–3.
