@@ -1,5 +1,13 @@
 # Changelog
 
+**#12 (2026-08-17) — Volume 2 Chapter 4《凯尔眼中的骑士》drafted**
+- **Content**: appended to `第二卷 持剑的孩子.md` — the knight as Kael sees him: the river village, the letter delivered (closing the Chapter 1 errand), a dead son's half-written home letter, grief done with hands instead of words (原来"节哀"两个字，是可以做成柴火的); the old woman's two eggs — "她给得起的，我才收"; the robbed traveler given half their rations; "赶路的" — a name that lets strangers be at ease; the child on the road who has not yet learned fear, smiling at him; then Kael's ledger of the knight's deeds and his wrong conclusion: the power comes from the sword — "如果我有这样的力量，就没人会害怕我。" The outline's key line: 凯尔："总有一天，我会像你一样强。" — unanswered; the knight's unspoken thought "我希望你不会像我一样强", too heavy to say; the knight, too, once squatted by a river polishing a sword, with no one to say it to him. Narrator plants the two kinds of strength (one makes people afraid, one makes them at ease — divided by a thin line called 克制; the line he will someday stand on the wrong side of, throwing restraint out of a wound — Volume 4) and hints the fearless knight's hidden fear (Chapter 5).
+- **Docs**: `README.md` — Volume 2 marked chapters 1-4 complete.
+- **Next**: Volume 2 Chapter 5《骑士过去的秘密》.
+- **Verification**: UTF-8 no BOM.
+
+---
+
 **#11 (2026-08-17) — Volume 2 Chapter 3《是路人也是同伴》revised (renamed from《骑士收养他》; outline key line anchored)**
 - **Content**: `第二卷 持剑的孩子.md` — renamed to signal the mutual nature of the bond: a stranger and a companion belong together; both are people who have not found their own road. Kept from the draft: 23 days of traveling, the villagers' "我家的" moment, the snake lesson, Kael giving his name ("凯尔·阿伦——不会迷路的人"), the short knife with the bark inscription, walking on the knight's left. Added per outline: "你为什么帮我？" / "因为你需要帮助。" — the key line 凯尔："所有人帮我，都是因为我可能有用。" 骑士："那你现在没有用，我为什么还在这里？" (Kael cannot answer with "usefulness"); the 师父 beat — he says it by the spring, the knight neither corrects nor accepts, only the one glance that is the answer; narrator hints the mutual redemption: the man who said "你走到哪儿，我就在哪儿" was himself walking a road without end, unable to stop, and Kael's adoption of the knight was simultaneous with the knight's adoption of him — 两个没找到自己路的人互相捡起了对方 (seed of Volume 5's reasonless togetherness).
 - **Verification**: UTF-8 no BOM.
