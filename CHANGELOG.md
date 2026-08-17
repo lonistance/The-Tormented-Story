@@ -1,5 +1,13 @@
 # Changelog
 
+**#17 (2026-08-17) — Volume 2 Chapter 8《骑士的觉悟》drafted (reflection shown without traces, no reveal)**
+- **Content**: appended to `第二卷 持剑的孩子.md` — the awakening rendered through behavior and third-person commentary, never through confession: the mayor's invitation to stay (the "留下来" motif echoed from the 柴房 offer) refused — Kael cannot understand; the war-worn veteran's probing answered with non-answers ("记不清了" — evasion shown as behavior); Kael's question about Adrian's later fate draws the master's deepest self-reflection disguised as commentary on the legend: "一开始是赎罪。赎不动，就变成了逃。" — "逃的人，是不给自己设终点的。他不敢停。停下来了，旧账就会追上来。" — "放下剑容易——可放下剑之前，你得先放下那个拿剑的自己。" — not one "我" in the chapter. Kael misreads everything again: he vows to settle all accounts cleanly, once and for all (the Adrian road he will actually walk); the creed lines land: "有时候，一把剑不如一根绳子。" and, at the wagon fire, "教你剑，是让你有一天不需要剑。" The unfinished awakening: at midnight the master polishes his sword like an apology and breathes one word — "对不起。" — the sword he cannot put down because he has not forgiven himself. Foreshadow: "逃" is the defect Kael will inherit (Volume 6); the reserved key line "我离开不是因为想走，是因为不敢停" stays banked until the parting chapter.
+- **Docs**: `README.md` — Volume 2 marked chapters 1-8 complete; `小说大纲.md` — Chapter 8 outline refined with the no-reveal presentation method.
+- **Next**: Volume 2 Chapter 9《骑士教导凯尔》.
+- **Verification**: UTF-8 no BOM.
+
+---
+
 **#16 (2026-08-17) — Volume 2 Chapter 7《骑士的悲剧》drafted (true name in play, never pointed at)**
 - **Content**: appended to `第二卷 持剑的孩子.md` — the tragedy told as a bard's tale at the Broken Barrel in Oakton: the young "胜利者"艾德里安·瓦尔, his three vows, "邪恶必须被消灭", the river-bank victory, the general slain, peace for one winter, then the revenge-chain, the nameless burning city, the dead one he had sworn to protect — "他赢了战争，却输掉了自己的名字"; the name buried by himself. Kael listens, stores "艾德里安·瓦尔" as a stranger's name, a cautionary tale ("别走那条路" — which he will walk anyway; narrator primes his Volumes 3-4 fate only). The master's self-judgment, verbatim per plan: "艾德里安·瓦尔是个傻瓜——至少曾经是。" — "他相信，杀了恶人，恶就没有了。" Kael's answer — kill them all and hold the peace — draws the quietest of replies: "他当年，也是这么想的。" Per the true-name rule: nothing in the text ever connects the knight to the name — no physical match, no narrator confirmation (the reveal awaits Chapter 13《分别》); the only cracks for the rereader are the fool line, the still soup, and the extra coin in the bard's hat.
 - **Docs**: `README.md` — Volume 2 marked chapters 1-7 complete; `小说大纲.md` — Chapter 7 outline refined with the true-name rule.
