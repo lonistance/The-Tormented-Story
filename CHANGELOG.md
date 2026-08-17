@@ -1,5 +1,12 @@
 # Changelog
 
+**#10 (2026-08-17) — Volume 2 Chapter 2《骑士没有看到怪物》drafted**
+- **Content**: appended to `第二卷 持剑的孩子.md` — a chapter of almost pure psychology: dawn at the ruined way station, the shoulder wound needs re-dressing, the collar slips, the birthmark meets the firelight; Kael braces for twelve years' worth of practiced fear — and the knight lights the lantern and says "天黑了，看不清路"; "你为什么不问？" / "你希望我问？" / "不希望。" / "那就不问。" — a kind of not-saying lighter than the tribe's; the parroted folk wisdom taken apart ("大家说，天上下雨是因为有人哭得太多了。……天就是想下雨。"); the key line "我见过的东西，比你的印记更可怕。" (first hint of the knight's past); "我只是看见一个孩子。" — his first time being seen as a person; Kael decides "那我不信它。我走我的路"; two shadows becoming one on the road.
+- **Next**: Volume 2 Chapter 3《骑士收养他》.
+- **Verification**: UTF-8 no BOM.
+
+---
+
 **#9 (2026-08-17) — Volume 2 opened: Chapter 1《来自远方的陌生人》drafted**
 - **Content**: new file `第二卷 持剑的孩子.md` — Kael's half-year wandering (herbs, stars, beast-hunting, learning to keep the mark covered, the "赶路的" answer he will use for years), then his first human enemies: five starving robbers at a ruined way station; his hand trembling for the first time — hesitation's price is a wounded shoulder; the tired knight who arrives without ceremony, shows him how to grip ("孩子，剑不是这样握的"), disarms all five without drawing his own sword; the exchange "他们是敌人！" / "他们是走投无路的人。"; night by the fire, the wound dressed, "我跟你走" — "我没有别的地方可去"; first lesson seeded: letting enemies go is harder than killing them (echo of Volume 5).
 - **Docs**: `README.md` — Volume 2 status row added.
