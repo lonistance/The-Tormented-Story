@@ -1,8 +1,7 @@
 # Changelog
 
-**#11 (2026-08-17) — Volume 2 Chapter 3《骑士收养他》draft included with revision commit**
-- **Content**: the uncommitted Chapter 3 draft in `第二卷 持剑的孩子.md` rode along with the #10 revision commit (git add -A). Status: DRAFT — 23 days of traveling together, the villagers' "我家的" moment, the snake lesson ("蛇不咬不慌的人"), Kael giving his own name ("凯尔·阿伦——不会迷路的人"), the adoption offer ("同行的意思是——你把它交给我，我也把它交给你"), the tears of being accepted, the gift of a short knife with the bark inscription "凯尔，不会迷路的人", walking on the knight's left (the trusted position).
-- **Note**: deviates from the outline key line ("所有人帮我，都是因为我可能有用。" / "那你现在没有用，我为什么还在这里？") and the "师父" beat — pending review/revision per outline, like #10 was.
+**#11 (2026-08-17) — Volume 2 Chapter 3《是路人也是同伴》revised (renamed from《骑士收养他》; outline key line anchored)**
+- **Content**: `第二卷 持剑的孩子.md` — renamed to signal the mutual nature of the bond: a stranger and a companion belong together; both are people who have not found their own road. Kept from the draft: 23 days of traveling, the villagers' "我家的" moment, the snake lesson, Kael giving his name ("凯尔·阿伦——不会迷路的人"), the short knife with the bark inscription, walking on the knight's left. Added per outline: "你为什么帮我？" / "因为你需要帮助。" — the key line 凯尔："所有人帮我，都是因为我可能有用。" 骑士："那你现在没有用，我为什么还在这里？" (Kael cannot answer with "usefulness"); the 师父 beat — he says it by the spring, the knight neither corrects nor accepts, only the one glance that is the answer; narrator hints the mutual redemption: the man who said "你走到哪儿，我就在哪儿" was himself walking a road without end, unable to stop, and Kael's adoption of the knight was simultaneous with the knight's adoption of him — 两个没找到自己路的人互相捡起了对方 (seed of Volume 5's reasonless togetherness).
 - **Verification**: UTF-8 no BOM.
 
 ---
