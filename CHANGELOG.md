@@ -1,5 +1,20 @@
 # Changelog
 
+**#28 (2026-08-18) — Volume 1《血痕之子》polish: let the twelve-year-old be just a child**
+- **Content**: revised `第一卷 血痕之子.md` per the reader's full review of the volume (structure and themes untouched; editorial subtraction/addition only) —
+  - **Prophecy made ambiguous (ch1)**: removed the explicit reveal that the prophecy said "随他而来" not "因他而来"; instead the crowd asks what it means and Toron answers nothing; that night he recites the line to himself and finds "he cannot read it correctly either" — the reader knows there is ambiguity but not the answer; Toron is not a simple villain but a priest unsure of himself (the seed of fear turning the prophecy into a self-fulfilling one).
+  - **The wolf night gains expectation (ch4)**: after the wolves flee, Kael's heart is warm — he has the words "没事了，狼走了" ready — and turns to find the children standing a few paces away, unmoving; no one thanks him, no one calls his name; "那声'没事了'卡在他的喉咙里". His first heroic act directly meets "no one loves him for it".
+  - **Kael's own choices (four new beats; innocent motives, self-harmful acts)**: ch3 — to prove he is not sick, he secretly pours his medicine into the grass by the wall (that patch of grass dies); at the chasing game "the poured medicine comes back to collect" and, asked if he hurts, "he does not dare mention the medicine poured into the grass". Ch5 — he goes into the mountains alone to hunt a boar and nearly has his flank ripped open (Gar's only reply while dressing the wound: "下回，叫我"); he deliberately picks the tallest section of fence to train balance; he publicly challenges the strongest hunter, is floored bare-handed, gets up and says "再来", trains in the snow until moonrise, concluding "还是不够" rather than "我不该来".
+  - **Moments of warmth added**: ch3 — Mairy at the window ("那你快点好"); ch5 — Gar takes him into the mountains once, teaching tracks — "山不说话，但它会回答" ("the only mountain road his father ever walked with him").
+  - **"Years later" limited to at most one per chapter**: ch2's long passage shortened; ch3's "buried into wilds, battlefields, piles of corpses" list removed (keeps "忘了"); ch7's closing list of "他不知道" trimmed from six items to three — dropping "become the strongest on the continent" and "he will return/ruins" (ruins already in ch6, kept there). The volume now keeps only: ch1's rain-night dream, ch4's "红印之子", ch6's ruins-and-necklace, ch7's three closing beats.
+  - **Other**: ch7's farewell upgraded to the core-line variation ("等我足够强大，强到你们再也无法假装看不见我的时候"); ch4 adds "从那一夜起，那片印记不再只是生下来就带着的东西了" (seed of the third layer of "blood-marks"); ch6 adds "他始终不知道那句预言的原话……他要洗清的，是一件他连内容都不知道的罪" (the child-understandable version, not the truth).
+  - Untouched: Gar's "argued once, just once", Serin's "活着，然后回家", the talisman and "你值得被爱", leaving home voluntarily (ch7) — all kept.
+- **Docs**: `第一卷 血痕之子.md` only.
+- **Next**: Volume 3《战争之子》Chapter 1《踏入战场》.
+- **Verification**: UTF-8 no BOM.
+
+---
+
 **#27 (2026-08-18) — Kael's child is now a daughter: the shelved gender-swap assets become a second playable character**
 - **Content**: Kael's child changed from a son (艾登) to a daughter (艾琳【拟定】, Eilin); all occurrences updated repo-wide —
   - `小说大纲.md`: vol5 "孩子出生（艾登【拟定】，儿子）" → "（艾琳【拟定】，女儿）"; vol6 chapter titles "父子最后一次对话"→"父女最后一次对话", "父子决斗"→"父女决斗"; two foreshadow-table mentions "第六卷父子决斗"→"第六卷父女决斗"; character-table row 艾登（Aiden）【拟定】/儿子 → 艾琳（Eilin）【拟定】/女儿.
