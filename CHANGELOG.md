@@ -1,5 +1,19 @@
 # Changelog
 
+**#29 (2026-08-18) — New `STORY_BIBLE.md`: AI writing bible v1.0 (style rules + repo canon)**
+- **Content**: created `STORY_BIBLE.md` — the user-provided "The Tormented AI writing rules (v1.0)" consolidated into a standing constraint file, augmented with this repo's established canon; all future chapters must be written against it —
+  - 0. Usage: every chapter prompt organized as 【PROJECT】【CANON】【STYLE BIBLE】【CHARACTER BIBLE】【PREVIOUS CHAPTER】【CURRENT CHAPTER PURPOSE】【CURRENT CHAPTER OUTLINE】【FORBIDDEN】【OUTPUT】; 【OUTPUT】 is prose only.
+  - 1. Highest priority: not "hero becomes legend" but "an ordinary man misreads strength/love/responsibility — legend — laying the legend down"; Kael is first a person; "the reader always knows a little more than Kael".
+  - 2–3. World & volume structure: gods beyond good/evil (War God's verdict, Neow's three hidden truths), Emberstone tribe, mixed-blood taboo, seven-volume timeline and file conventions.
+  - 4. Character bible: Kael ("I must prove I deserve to stay" + misreading chain + unreliable childhood memory), Adrian (imperfect mentor, acts not speaks, true-name rule), Erian ("Long-Legged Doctor" persona, reversal-seed payoff chain), Serin/Gar, Mira (the hand-made necklace), Eilin (counterpoint to Kael, seeking her father, duel core), the War God, Neow.
+  - 5. Narration & style: limited third person, future voice at most once per chapter, emotion through action, restraint (wife's death only via objects/survivors/rumors/environment/reaction), age-appropriate dialogue, legend principle, combat/growth/happiness/tragedy/foreshadow/prophecy rules.
+  - 6. Key beats: both challenges to the god, ordinary-life period, the leaving-home paradox, vol3 Erian redesign.
+  - 7–11. Forbidden list, the 12 pre-chapter questions, six post-chapter checks, never "improve" the characters for the author, final philosophy ("he finally no longer needs to be anything").
+- **Docs**: new `STORY_BIBLE.md`.
+- **Verification**: UTF-8 no BOM.
+
+---
+
 **#28 (2026-08-18) — Volume 1《血痕之子》polish: let the twelve-year-old be just a child**
 - **Content**: revised `第一卷 血痕之子.md` per the reader's full review of the volume (structure and themes untouched; editorial subtraction/addition only) —
   - **Prophecy made ambiguous (ch1)**: removed the explicit reveal that the prophecy said "随他而来" not "因他而来"; instead the crowd asks what it means and Toron answers nothing; that night he recites the line to himself and finds "he cannot read it correctly either" — the reader knows there is ambiguity but not the answer; Toron is not a simple villain but a priest unsure of himself (the seed of fear turning the prophecy into a self-fulfilling one).
