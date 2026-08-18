@@ -12,6 +12,15 @@
 - **Docs**: new `STORY_BIBLE.md`.
 - **Verification**: UTF-8 no BOM.
 
+**#30 (2026-08-18) — Volume 2《持剑的孩子》polish: drop the "master" address, cut interpretive narration**
+- **Content**: per the author's full-volume review of Volume 2 (core flaw = over-explanation: four voices — author, narrator, future Kael, Adrian — explaining the same thing; restraint 6.5/10, narration discipline 6.5/10), polished `第二卷 持剑的孩子.md` (all 15 chapters) —
+  - Address system reset: **99 occurrences of "师父" deleted volume-wide**, replaced with — bare "你" in dialogue, no title ("教我剑术吧。" "你从前……信过剑吗？"); daily "骑士"; the intimate word only in the heart ("爹" almost spoken by the spring, swallowed); narration uses "骑士/那个人". Chapter 3's "uttering 师父" scene rewritten as a word stuck in the throat (the absence of a name for him mirrors his own namelessness), tying into the "爹" seed (谁家孩子跟爹长得像了); the key line becomes "你从不夸我。所以我还不够好。" (same person as ch12's "你从来没夸过我"); in ch12 Kael tells the soldier "我跟着一个赶路的练剑" (echoing the name 赶路的). Ch14's true-name reveal ("艾德里安·瓦尔") untouched; the farewell's only vocative is now "……骑士？".
+  - Interpretive narration cut ~30–40%: removed the two lines the author named ("这句话，一半是说他的，另一半，是说骑士自己的。" "能说得出'认为自己只能成为怪物'是什么滋味的人……"), the three-strike structural spoiler of "认为自己只能成为怪物的人", ch4's "师父在等一个问题" exposition, ch5's duplicated "同一堂课" statement and the "我希望你不会像我一样" future-echo, ch8's "逃到神的高度上去" spoiler, ch9's "等你不想学的时候" echo, ch4's "从一道伤口里挤出去" advance notice, ch3's "自己也走在没有尽头的路上" exposition; trimmed ch1's triple "放走敌人" clauses, ch4's "拿/收" expansion, ch5's duplicated "many-years-later in the yard" passage (the chapter's tight version kept), ch7's "赢了所有的仗" spoiler (only "这条路他将来也会走一遍" kept), etc.
+  - Kept true fate-echoes: ch2's "我见过很多比印记更可怕的东西" later spoken to another person; ch6's generational nightmare replication; ch8's "对不起"; ch9's "你已经赢了"→"你的剑很锋利——但它让我安心"; ch10's "你已经足够好了" to his child; ch12's daughter "想离开，先打败我"; ch14's "我不会失败／我不是这个意思" understood decades later.
+  - Synced `小说大纲.md` (10 师父-related entries: the address beat, key lines, true-name rule wording).
+- **Next**: retry pushing `2667fc6` (STORY_BIBLE commit, push previously failed).
+- **Verification**: UTF-8 no BOM; grep "师父" zero hits in prose (only CHANGELOG history and STORY_BIBLE's forbidden-item list remain).
+
 ---
 
 **#28 (2026-08-18) — Volume 1《血痕之子》polish: let the twelve-year-old be just a child**
