@@ -282,4 +282,15 @@
 - **Docs**: `第三卷 战争之子.md` (chapter appended); `README.md` + `STORY_BIBLE.md` §3 status rows updated.
 - **Verification**: UTF-8 no BOM; grep "师父" zero hits in the chapter.
 
+**#34 (2026-08-19) — Volume 3 Chapter 2《现实中的战争》drafted (Day 2 of the 入营三日 block); outline += Orlan's death**
+- **Content**: per the author's direction (Orlan dies with a knight's code, covering his comrades — reported after the return by a companion; never a web-novel "picked a fight with the protagonist" beat), Chapter 2 prose drafted —
+  - Dawn formation; the patrol led by the young armored knight Orlan (Kael recognizes him from last night's "不过是乡下人的把戏"); the arm's-length march; the village raid; first real blade (weight, blood, bone, sound — nothing like the wooden sword); first kill — the young enemy's "母……亲……"; the rescue ("我能保护别人。"). "狼崽子" = dread, not praise.
+  - The retreat: a flash of bright armor at the crossroads — his only image of Orlan ("别停！…走！" — someone drags him on). After the return, 巴恩 reports flatly: 昨天校场那个……死了。他让我们先走。他说他是骑士，骑士没有跑在别人后头的道理。"他这人，嘴不饶人。" — a justified death by knight's code, not a villain's comeuppance.
+  - Night, double self-deception: the trembling hand pressed down — "我不是怪物。我只是……赢了。"; then Orlan — he tries to recall his face, cannot (only the bright armor and that one sentence remain) — "强大的人，才能活下来。他活下来了。所以他够强。" Second repetition, the hand stops trembling. Reader-side revelation carried by scene choice alone, no narrator explanation: yesterday's comrade is today's corpse; war's "fairness" lies not in "不问出身" but in everyone having exactly one life.
+  - Erian sharing water / dressing an enemy's wound; Kael sees and doesn't ask. Ending echoes ch1's dawn line.
+  - Zero future voice; the recalled maxim verbatim from Volume 2's farewell ("剑不是用来证明自己的。")
+- **Docs**: `小说大纲.md` (Ch2 entry: Orlan death beats, key lines, writing notes), `第三卷 战争之子.md` (chapter appended), `README.md` + `STORY_BIBLE.md` §3 status rows, `STORY_BIBLE.md` §6 入营三日 entry.
+- **Next**: draft Chapter 3《天赋带来的荣耀》(Day 3, per approved outline; note ch3 carries 3-5 extras and the volume's single allowed future voice).
+- **Verification**: UTF-8 no BOM; grep "师父" zero; no future-voice markers except "干了以后发涩" (physical causality).
+
 ---
