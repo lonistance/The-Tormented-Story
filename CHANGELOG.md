@@ -310,5 +310,7 @@
 - **Docs**: `第三卷 战争之子.md` (chapter appended); `README.md` + `STORY_BIBLE.md` §3 status rows.
 - **Next**: Chapter 4《他误解了认可》(absorption of the glory arc; per outline).
 - **Verification**: UTF-8 no BOM; grep "师父" zero; no future-time words; one future voice.
+- **Revision**: per the author's direction, a midday patrol highlight was inserted into Day 3 — Kael volunteers for a sortie to the forward outpost where 7-8 defeated soldiers (溃兵) are looting the grain store; he drives them off single-handedly (straight-line economy, each strike at a vital gap). In the split second the last man is at sword-point, the enemy's shadow overlaps with the lead wolf from his childhood (the one he drove off with a stick) — the illusion nearly triggers a killing blow, but the blade stops a hair's breadth away. The rescued comrade presses his fist to his chest in silent gratitude; Kael feels an absurd bloom of "hero's glory" (the sword's purpose deviates for the first time), and is frightened by the feeling. No internal monologue tags ("he thought/felt") — the psychology is carried by action beats: the axe mid-swing pausing as he passes, the white-knuckled grip on the hilt, the breath held over the blade later at the fire. All other Day 3 beats intact (哈维 extra meat, 红印的小子, Erian's cold water, veterans' talk, theme-sentence future voice).
+- **Docs**: `第三卷 战争之子.md` (chapter rewritten).
 
 ---
