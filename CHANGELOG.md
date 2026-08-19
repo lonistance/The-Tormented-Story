@@ -254,4 +254,9 @@
 - **Docs**: `README.md` — repository overview and volume list.
 - **Verification**: UTF-8 no BOM.
 
+**#31 (2026-08-19) — Volume 3 Chapter 1《踏入战场》draft deleted; history scrubbed**
+- **Content**: per the author's instruction ("delete Volume 3 Chapter 1, undo its GitHub push"), the trial draft of the volume's opening chapter was **removed entirely** — history rewritten and force-pushed: the rebuilt #30 commit no longer contains `第三卷 战争之子.md`, and the old #31/#32 commits (both drafts) were dropped; earlier changelog mentions of the draft were removed in kind. No prose for the chapter remains in the repository.
+- **Docs**: `第三卷 战争之子.md` restored to the volume header + chapter structure only (ch1 未开始); `README.md` Volume 3 row back to 未开始; `STORY_BIBLE.md` §3 status row back to 未开始, §6's vol3-ch1 established-settings line removed.
+- **Verification**: UTF-8 no BOM; `git log` for `第三卷 战争之子.md` shows only this commit.
+
 ---
