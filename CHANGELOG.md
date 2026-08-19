@@ -270,4 +270,16 @@
 - **Next**: draft Chapter 1 prose (author gates the prose).
 - **Verification**: UTF-8 no BOM.
 
+**#33 (2026-08-19) — Volume 3 Chapter 1《踏入战场》drafted (Day 1 of the 入营三日 block)**
+- **Content**: Chapter 1 prose drafted per the approved outline (author gates the prose). Day 1 — arrival and the night before:
+  - Opening on the footlocker ("新来的？"); registration by the half-eared veteran (the collar opened — first time un-covered since age 12; "猎户"; the sword noted); quartermaster 哈维 counting grain one kernel at a time — the reader's first glimpse that grain, not swords, keeps an army alive.
+  - Camp walk-in-one-glance: 烟火气 fully behavioral (mending soles / swiping thread, dice and bad language, the cook chasing a meat-thief, grooming a horse).
+  - First dinner (chapter core): "那个凯尔？" → "听说你会使剑？""会。""那就好。"; Erian grabs the last bowl of soup ("你再不快点，它就是我的了。"), the nickname "长腿的医生" first heard this chapter.
+  - Wooden-sword win over 巴恩 grounded in observation (his left foot bears no weight — the half-beat lag); "谁教你的？""一个骑士。"; "这小子有点东西。"
+  - 奥兰 ("不过是乡下人的把戏。"), the officer stops it — "因为他是骑士，你不是。"; Kael's self-persuasion (没关系。等上了战场就不一样了。).
+  - Night: the talisman, the hilt knot, the stick-first/sword-after line, the key line spoken to the tent roof — "只要我赢，所有人都会接受我。" Closing on hope; zero future voice (this block's single one is reserved for ch3).
+  - Dual-layer narration carried by scene choice only, no narrator explanations.
+- **Docs**: `第三卷 战争之子.md` (chapter appended); `README.md` + `STORY_BIBLE.md` §3 status rows updated.
+- **Verification**: UTF-8 no BOM; grep "师父" zero hits in the chapter.
+
 ---
