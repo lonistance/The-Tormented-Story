@@ -259,4 +259,15 @@
 - **Docs**: `第三卷 战争之子.md` restored to the volume header + chapter structure only (ch1 未开始); `README.md` Volume 3 row back to 未开始; `STORY_BIBLE.md` §3 status row back to 未开始, §6's vol3-ch1 established-settings line removed.
 - **Verification**: UTF-8 no BOM; `git log` for `第三卷 战争之子.md` shows only this commit.
 
+**#32 (2026-08-19) — Volume 3 outline revised: Chapter 1 expanded to a "three days / three chapters" block (author-approved plan)**
+- **Content**: per the author's plan (dual-layer narration: Kael's "the battlefield only tests strength" fantasy vs. the reader's glimpse of tags / grain / class / death), the outline's Volume-3 chapters 1–3 were rewritten into an 入营三日 (three days in camp) block —
+  - Ch1《踏入战场》Day 1: opening with the footlocker; registration ("猎户" by the half-eared veteran); quartermaster 哈维's ledger; first dinner (the "那个凯尔？……听说你会使剑？" beat); Erian's entrance grabbing the last bowl of soup, the nickname "长腿的医生" first heard this chapter; wooden-sword win over 巴恩; "因为他是骑士，你不是"; the key line spoken to the tent roof.
+  - Ch2《现实中的战争》Day 2: dawn formation; patrol → village raid; first real blade; first kill — the young enemy's "母……亲……"; saving a child ("我能保护别人"); "狼崽子" = dread, not praise; Erian sharing water and binding an enemy's wound; the night's first self-deception ("我不是怪物。我只是……赢了。").
+  - Ch3《天赋带来的荣耀》Day 3: aftermath — the extra salt meat, the toast, "红印的小子"; awe ≠ acceptance; Erian's cold water ("等你多活几年就知道了"…"没什么意思。"); the veterans' night talk ("昨天那几个村民呢？""没救回来。"); Kael's refusal ("如果我们足够强，就能救下来。") and Erian's "也许吧。""早点睡。"; ending on "我终于找到了属于自己的地方" + the theme sentence (the chapter's single allowed future voice).
+  - Ch4 absorbs the old ch3 glory arc (夜袭/破阵/斩将、"红印之子" etc.); Ch5 retitled《你想死吗？》— the pursuit rescue is now the bond-forming night, not the first meeting (Erian's entry moved to ch1's dinner as approved).
+  - One-time characters with plain names (used only in this block): quartermaster 哈维, testing veteran 巴恩, young noble knight 奥兰. Future voice counts 0/0/1; 烟火气 fully behavioral; "红印之子" seed (callback to Volume 1 ch4).
+- **Docs**: `小说大纲.md` (ch1–5 entries rewritten), `第三卷 战争之子.md` (volume header: ch5 title), `STORY_BIBLE.md` (§3 status row, new §6 入营三日 entry), `README.md` (Volume 3 row).
+- **Next**: draft Chapter 1 prose (author gates the prose).
+- **Verification**: UTF-8 no BOM.
+
 ---
