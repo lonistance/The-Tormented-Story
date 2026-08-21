@@ -61,7 +61,7 @@ Prose only. No process explanation, no summary, no analysis.
 |---|---|---|---|
 | I | Blood-Stained Child | Birth ~12 | ✅ 7 chapters polished (per #28) |
 | II | Sword-Bearing Child | 12~18 | ✅ 15 chapters done |
-| III | War Child | 18~25 | Chs 1-3 drafted (3-day induction, appended per chapter; Ch 4 rewrite pending) |
+| III | War Child | 18~25 | Chs 1-4 drafted (3-day induction + glory misreading, appended per chapter) |
 | IV | Defying Gods, Death God Born | 25~40 | Not started |
 | V | Man Who Forgot the Sword | 40+ ~ decades | Not started |
 | VI | Man Who Lost Home | Happiness Ends | Not started |

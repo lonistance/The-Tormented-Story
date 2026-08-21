@@ -330,4 +330,15 @@
 - **Docs**: `第三卷 战争之子.md` (Ch1-3 revised), `第二卷 持剑的孩子.md` (Ch5 dialogue), `小说大纲.md` + `novel_outline.md` (Vol 5 Ch14 updated).
 - **Verification**: UTF-8 no BOM; "师父" zero; no future-time words; future voice quota respected (Vol 3 Ch3 had the sole 0/0/1).
 
+**#38 (2026-08-21) — Volume 3 Chapter 4《他误解了认可》rewritten per blueprint**
+- **Core**: first active wrong choice — Kael believes his power judgment > others' caution; small-scale mission (search/capture deserters in village with civilians); succeeds beautifully (14 captured, 3 killed, 0 civilian casualties); rewarded with official sword ("你现在值得一把好剑").
+- **Erian conflict established**: "等白天" / "那就让他们跑" / "少死几个人，也可以接受任务失败" — value divergence seeded, no preaching.
+- **Micro cost**: one soldier grazed by arrow; Erian treats silently, "你赢了" / "嗯" — divergence shown, not argued.
+- **New sword moment**: military-issue sword given as recognition; Kael tests it, then re-ties knot on old sword (Adrian's ghost) — sword = recognition proof.
+- **Prisoner mirror**: deserter's fear mirrors childhood clan fear; Kael recognizes ("怕他本人的怕") then self-deceives ("怕我，就是承认我。承认我，我就赢了。").
+- **Ending**: dual swords on knees → old sword back on pillow, new sword hung; night footsteps; internal equation reinforced.
+- **Style**: zero future voice (Vol 3 quota closed at Ch3); "师父" zero; no new named characters; Erian never preaches; psychology via action beats only.
+- **Docs**: `第三卷 战争之子.md` (Ch4 appended); `README.md` + both bibles §3 status rows now 第一～四章成稿.
+- **Verification**: UTF-8 no BOM; "师父" zero; no future-time words.
+
 ---
