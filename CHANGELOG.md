@@ -313,4 +313,21 @@
 - **Revision**: per the author's direction, a midday patrol highlight was inserted into Day 3 — Kael volunteers for a sortie to the forward outpost where 7-8 defeated soldiers (溃兵) are looting the grain store; he drives them off single-handedly (straight-line economy, each strike at a vital gap). In the split second the last man is at sword-point, the enemy's shadow overlaps with the lead wolf from his childhood (the one he drove off with a stick) — the illusion nearly triggers a killing blow, but the blade stops a hair's breadth away. The rescued comrade presses his fist to his chest in silent gratitude; Kael feels an absurd bloom of "hero's glory" (the sword's purpose deviates for the first time), and is frightened by the feeling. No internal monologue tags ("he thought/felt") — the psychology is carried by action beats: the axe mid-swing pausing as he passes, the white-knuckled grip on the hilt, the breath held over the blade later at the fire. All other Day 3 beats intact (哈维 extra meat, 红印的小子, Erian's cold water, veterans' talk, theme-sentence future voice).
 - **Docs**: `第三卷 战争之子.md` (chapter rewritten).
 
+**#36 (2026-08-20) — English story bible & outline added; chapter count corrected to 102; Chapter 4《他误解了认可》initial draft withdrawn (rewrite pending)**
+- **Chapter 4 withdrawn**: the initial draft of Chapter 4 was removed from the repo; its push to GitHub cancelled via history rewrite + force-push — `第三卷 战争之子.md` restored to the Chapter-3 state. Rewrite per the outline is pending.
+- **English materials** (per the author's request to translate the story bible and outline into English):
+  - New `STORY_BIBLE_EN.md`: complete English translation of `STORY_BIBLE.md` (duplicate §6 bullet removed; the Day-3 noon patrol highlight synced into the §6 入营三日 entry, matching the Chinese bible).
+  - New `novel_outline.md`: complete English translation of `小说大纲.md` (7 volumes, 102 chapters — same structure: one-line synopsis, scene expansion, key lines, chapter twist, foreshadow/callback, writing notes; plus the appendix: character list, key objects, timeline, volume theme sentences, game connection points).
+- **Chapter count correction**: the outlines' header and its mentions claimed "101 chapters", but the actual heading count is **102** — corrected in `小说大纲.md`, `novel_outline.md`, `STORY_BIBLE.md`, `STORY_BIBLE_EN.md`, `README.md` (historical CHANGELOG #1 wording left as recorded).
+- **Docs**: `README.md` + both bibles §3 status rows now 第一～三章成稿 (Ch4 rewrite pending).
+- **Verification**: UTF-8 no BOM on all files; `novel_outline.md`/`STORY_BIBLE_EN.md` contain no Chinese characters; markers clean; "师父" zero in prose.
+
+**#37 (2026-08-21) — Volume 3 Ch1-3 revised (less tell, more show); Volume 2 Ch5 dialogue added; Outline Vol5 Ch14 name echo added**
+- **Vol 3 Ch1-3 revision** (per author's full review: "psychological arc too explicit"): cut ~10-15% interpretive narration ("he realized/he thought/this meant") across three chapters; let actions carry meaning; broke the repetitive night-reflection template (amulet/sword/monologue); preserved the 5 core scenes ("那就好", quartermaster counting grain, "母…亲…", dead knight's forgotten face, "红印的小子"); Erian gains micro fear-behaviors (fills water skin first, counts men by fire); Harvey strengthened as recurring functional background; sword-knot as Adrian's ghost threaded through.
+- **Vol 2 Ch5 "没有剑的一天"**: added dialogue — Kael notices knight's empty sheath, asks "你的剑呢？" → "收起来了" → "为什么？" → "因为我现在用不到它。比起剑，我现在更需要一把斧子。" — foreshadows Vol 5's sword/firewood irony.
+- **Outline Vol 5 Ch14 "剑与柴"**: after the "Enemies don't run. Firewood does" joke, Kael murmurs "艾德里安·瓦尔"; daughter asks "他是谁？"; Kael dazedly answers "一位教我如何使用剑的骑士" — echoes Vol 2 Ch14 true-name reveal and Vol 2 Ch5 axe line across decades.
+- **EN outline synced** to match.
+- **Docs**: `第三卷 战争之子.md` (Ch1-3 revised), `第二卷 持剑的孩子.md` (Ch5 dialogue), `小说大纲.md` + `novel_outline.md` (Vol 5 Ch14 updated).
+- **Verification**: UTF-8 no BOM; "师父" zero; no future-time words; future voice quota respected (Vol 3 Ch3 had the sole 0/0/1).
+
 ---
