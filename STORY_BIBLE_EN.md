@@ -194,3 +194,84 @@ Don't tell the reader who Kael is. Let the reader watch his choices, then decide
 Kael is not a hero, not a villain, not a victim, not a saint, not a monster. He is simply: a person who spent a lifetime searching for "who am I really."
 
 And the true core of *The Tormented* is not "he finally became a hero" — it is — **"He finally no longer needs to be anything."**
+
+---
+
+## 12. Detail Selection & Deletion Principles (Editorial Requirements)
+
+### 12.1 Details Are for Revealing Character, Not Worldbuilding
+
+Every environment detail, action detail, or atmosphere detail that enters the text must answer:
+
+**What function does this detail serve in the current scene?**
+
+Possible functions:
+1. Advance plot
+2. Reveal character
+3. Create atmosphere
+4. Provide contrast
+5. Suggest social context
+6. Reinforce period feel
+7. Reinforce theme
+8. Plant foreshadowing
+9. Change reader's understanding of the scene
+
+If a detail only exists "because it feels real" — **delete it first.**
+
+### 12.2 One Detail, One Primary Function
+
+Don't stack the same information repeatedly (e.g., "someone drinking, someone gambling, someone arguing, someone singing" — all just "noisy camp").
+
+Better: Pick **one most effective detail**, let the character enter it, complete "environment + character + dialogue" in one beat.
+
+### 12.3 Details Must Serve the Lens
+
+The text is not a surveillance feed. The reader only sees what the current POV character (Kael) notices.
+
+Must ask: **Why would Kael notice this?** If he has no reason to notice — delete it.
+
+### 12.4 Avoid "Encyclopedia Scenes" and "Three Details in a Row"
+
+Forbidden: "The camp has...", "The street has...", "The room has..." laundry lists.
+
+Environment description must be embedded in **character action**.
+
+Default avoid: A detail + B detail + C detail consecutively. Especially avoid "Someone... someone... someone..." or "He saw... he also saw... he also saw..."
+
+If multiple details are truly needed, let them be broken by **character action, dialogue, emotion, or plot.**
+
+### 12.5 Detail Budget
+
+Default: **A scene typically needs only 1–3 distinguishing environment details.** Important scenes may add more, but only with justification.
+
+Don't add because "there are still many unused details." **Don't show "how much stuff the world has" — pick one detail that lets the reader infer the rest.**
+
+### 12.6 Deletion Over Addition
+
+After first draft, run a dedicated **detail subtraction pass**:
+
+Check each environment detail: "If I delete this, what does the reader lose?" If "almost nothing" — delete. If two details serve the same function — keep only the stronger.
+
+---
+
+## 13. The 30% Deletion Challenge (Stress Test)
+
+After first draft, assume an editor demands:
+
+> "Cut 30% of environment description, explanatory prose, and repetitive information — without damaging the plot."
+
+Execute once. Compare before/after. Identify what removal made the text stronger.
+
+**Final draft need not be the 30% cut version, but the stress test is mandatory.**
+
+Priority targets for cutting:
+- Consecutive environment descriptions
+- Synonymous emotion repetition
+- Redundant internal monologue
+- Superfluous metaphors
+- Superfluous actions
+- Repeated foreshadowing
+- Repeated explanations
+- Details added "just to feel real"
+
+**Core tenet: Don't write everything worth writing. Write only what the reader most needs to see right now.**
