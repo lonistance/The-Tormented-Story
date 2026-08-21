@@ -1,278 +1,566 @@
-# The Tormented — AI Writing Story Bible v1.0 (with Repo Canon Addenda)
+# 《The Tormented》AI Writing Story Bible v2.0 (with this repo's Canon additions)
 
-> This document is the supreme constraint file for all subsequent chapter writing. For each new chapter, organize input per the "Usage" structure; while writing, cross-check against the "12 Pre-Write Questions" and the "Post-Write Self-Check."
+> This document is the single governing file for all chapter creation from now on. When creating a new chapter, organize input per "Usage"; while writing, check item by item against "The 12 Questions" and "Post-Chapter Self-Check".
+> This edition uses the author-provided v2.0 as its skeleton, merges the repo's existing Canon additions (Neow three-truths enumeration, the Torlen "can't read it" note, Kael's Misunderstanding Chain instances, Detail Selection & Deletion Principles, 30% Deletion Challenge), and updates its pre-split stale references to the post-CHANGELOG-#41 state (103 chapters, Day 2 split, fragmentary retelling, 0/0/0/1).
+
+---
 
 ## 0. Usage (Per-Chapter Input Structure)
 
-Every time you create a new chapter, the input MUST follow the structure below. Do not mix this document with the prose.
+Every new chapter's input must be organized in this structure; do not blend this document and prose into one blob:
 
 ```
 【PROJECT】
-The Tormented novel (7 volumes, prose appended chapter by chapter to the repo)
+The Tormented novel (seven-volume novel; prose appended to the repo chapter by chapter)
 
 【CANON】
-[Immutable world facts & character facts — see Sections 2, 3, 4, 6]
+[Copy verbatim every relevant entry of Sections 2, 3, 4, 6. Do NOT substitute "see Section X"; do NOT summarize]
 
 【STYLE BIBLE】
-[Writing rules of this document — see Section 5]
+[Copy verbatim all of Section 5 relevant to this chapter]
 
 【CHARACTER BIBLE】
-[Characters involved in the current chapter — see Section 4]
+[Copy verbatim all Section 4 entries for involved characters]
 
 【PREVIOUS CHAPTER】
-[Full text of the previous chapter]
+[Full text of previous chapter]
 
 【CURRENT CHAPTER PURPOSE】
-[This chapter's role in the overall story (per outline chapter positioning)]
+[This chapter's role in the whole story (against outline positioning)]
 
 【CURRENT CHAPTER OUTLINE】
-[Concrete beats (outline scene expansion + author's current instructions)]
+[Scene list. Memory deviations MUST be explicitly ordered here; AI must not invent them]
 
 【FORBIDDEN】
-[Content that must NOT appear in this chapter]
+[What specifically must not appear in this chapter]
 
 【OUTPUT】
-Prose only. No process explanation, no summary, no analysis.
+Novel prose only. No process explanation, no summary, no analysis.
 ```
 
-## 1. Highest-Priority Principles
+---
 
-- This novel is NOT "how a hero becomes a legend." It is "how an ordinary man, through misreading power, love, and responsibility, step by step becomes a legend, and finally puts the legend down."
-- Kael's life is NOT a gratification curve of "weak → strong → invincible → redemption." It is: ostracized → craving validation → equating strength with worth → gaining strength → losing humanity → gaining everything yet losing meaning → laying down strength → learning to be ordinary → losing everything again → finally facing his true self.
-- Do not write Kael as a "born hero." He is first and foremost a person: virtues, flaws, mistakes, goodwill, pride, fear, vanity, love, and weakness must coexist.
-- Tragedy is written as "misunderstanding" (Kael always hears a correct sentence wrong); comedy as "clumsiness" (a legend who never learns ordinary life); war scenes are restrained — no heroic glorification, only exhaustion, fear, hunger, death.
-- **The reader ALWAYS knows a little more than Kael** (the prophecy's truth, the knight's past, the curse's meaning), creating sustained dramatic irony and pity.
+## 1. Supreme Priority Principles
 
-## 2. Worldbuilding (CANON)
+- This novel is NOT "how a hero becomes a legend"; it is "how an ordinary man, by wrongly understanding power, love, and duty, step by step becomes a legend — and finally puts the legend down."
+- Kael's life is not a "weak → strong → invincible → redeemed" power-fantasy curve, but: rejected → yearning to prove himself → equating strength with worth → gaining power → losing humanity → gaining everything yet losing meaning → laying power down → learning to be ordinary → losing everything again → finally facing his true self.
+- Do not write Kael as a "born hero." He is a person first: strengths, flaws, mistakes, kindness, pride, fear, vanity, love, and weakness must coexist.
+- Tragedy writes "mishearing" (Kael always mishears a correct sentence); comedy writes "clumsiness" (a legend who cannot learn ordinary life); war scenes are restrained — no heroism, only exhaustion, fear, hunger, death.
+- **The reader always knows slightly more than Kael** (the prophecy's truth, the knight's past, the curse's true meaning), sustaining irony and pity.
 
-- **Genre: Dark Fantasy / Epic Fantasy / Medieval Fantasy.** Wuxia, xianxia, Eastern fantasy, modern fantasy, web-novel leveling tropes, light-novel adventure comedy tones/structures are FORBIDDEN.
-- The world contains: tribes, kingdoms, knights, war, gods, magic/supernatural forces, the Blight, the Spire, ancient civilizations, legends. Supernatural elements must never be explained away.
-- **Gods are real**, wielding power far beyond mortals, but they are neither "good" nor "evil": they have desires, pride, fear, prejudice, interests, emotions, their own agendas. FORBIDDEN: "evil god kills humans just because he looks down on them."
-- **War God (Herrag, tentative)**: governs war itself. He does not remember people by strength; He only remembers mortals who dared stand in His path — in ten million years, only one (the weakest, Erian). He despises the clamor of those who come to prove themselves. **He does not hate victors; He hates those who win yet do not understand what victory means** — when Kael severs His arm, His rage is not from defeat, but from the fact that a mortal won and still does not know what winning means.
-- **Neow**: may appear mysterious, gentle, tolerant, powerful, giving hope. But three things must NEVER be told to Kael or explained directly: ① the Blight is actually connected to Neow; ② Neow envies the Creator; ③ Neow uses climbers to solve her own problems. These are hidden truths for the player to discover through the game world.
-- **Blight**: a calamity that drives people to madness and mutation, prevents the dead from resting, originates from the Spire.
-- **Cinderstone Tribe**: a human-dominant border tribe worshipping ancient gods, practicing "blood-and-fire divination." Kael's mother Celine is a dark elf who fled there years ago due to war; the tribe took her in with an attitude of "pity and wariness."
-- **Humans & Dark Elves**: tense relations, half-bloods taboo. Human strength/endurance + dark-elf agility/night-vision — Kael's bloodline is the source of his talent AND his original sin.
-- **Kael's Name**: "Kael" — old Dark-Elven, "one who walks at dusk and does not lose his way"; "Aren" — human tongue, "the steadfast one."
+### Misunderstanding Mechanics (AI must execute per this)
+
+| Type | Mechanism | Example |
+|:---|:---|:---|
+| Truncation | The correct words are cut off by noise/action/emotion | Adrian "the sword isn't for kill—" Kael hears only "sword… killing" |
+| Substitution | The original words get replaced by Kael's inner fear | Erian "comrades protect you" → Kael records "only the weak need protection" |
+| Delay | Understood correctly on the spot, forgotten under pressure, recalled chapters later in the wrong version | Adrian "you're already enough" → silent acceptance then → two chapters later remembered as "he said I wasn't good enough" |
+
+**Execution rule:** whenever a chapter involves important dialogue, 【CURRENT CHAPTER OUTLINE】 must tag the original line, Kael's received version, and the mechanism type. AI may not decide on its own that Kael "gets it this time."
+
+**Established Misunderstanding Chain instances (check before writing any major Kael action):**
+Adrian "the sword isn't for killing" → Kael hears "my sword isn't strong enough"; comrade "you're just a kid" → Kael hears "you're not qualified yet"; companion "comrades protect each other" → Kael hears "only the weak need protection"; wife "you can stay" → Kael only later begins to understand "I don't need to prove myself."
+
+---
+
+## 2. Worldview (CANON)
+
+- Genre: **dark fantasy / epic fantasy / medieval fantasy**. Banned: wuxia, xianxia, Eastern xuanhuan, modern fantasy, web-novel leveling arcs, light-novel adventure-comedy tones and structures.
+- The world contains: tribes, kingdoms, knights, war, gods, magic/supernatural forces, the Blight, the Spire, ancient civilizations, legends. Supernatural elements must not be casually explained.
+- **Gods are real**, far beyond mortals in power, but neither "good" nor "evil": they have desires, pride, fears, biases, interests, emotions, stances of their own. Banned: "an evil god kills humans casually out of contempt."
+- **War God (Herrag, tentative)**: governs war itself. Does not remember people by strength; remembers only mortals who dared stand in His path — in ten million years, only one (the weakest, Erian); despises clamor that comes to prove itself. **He does not hate victors; He hates those who win without understanding what winning means** — when Kael severs His arm, His rage is never about defeat, but about a mortal who won and still does not know what victory means.
+- **Neow**: may appear mysterious, gentle, tolerant, powerful, hope-giving. But the following three things must never be known by Kael, never directly explained, never confirmed by any character: ① the Blight is actually connected to Neow; ② Neow envies the Creator; ③ Neow uses Spire-climbers to solve her own problems. These are hidden truths players discover through the game world themselves.
+
+### Neow Writing Boundaries
+
+| Layer | Allowed | Forbidden |
+|:---|:---|:---|
+| Behavior layer | Readers may grow suspicious of Neow's behavior (deal terms too convenient, personal emotion about one Spire floor, turning up exactly in blighted zones) | Any character stating or confirming the three truths |
+| Interpretation layer | Kael rationalizes anomalies ("she's well-traveled," "she has her own sources") | Narration hinting Kael's rationalization is wrong |
+| Narrative layer | Readers suspect via juxtaposed details | Author guiding readers to "discover the truth" via explained foreshadows |
+
+- **Blight**: disaster that maddens and mutates people, denies the dead their rest; comes from the Spire.
+- **Ember-Stone Tribe**: human-majority border tribe worshiping old gods, practicing "divination by blood and fire." Kael's mother Celine, a dark elf, fled here years ago amid war; taken in with a dual attitude of "pity and wariness."
+- **Humans & dark elves**: tense relations; mixed blood taboo. Human strength and stamina, dark-elf agility and night vision — Kael's blood is both talent and original sin.
+- **Kael's name**: Kael — dark-elf old tongue, the name mountain folk give those still traveling at dusk — "the one who doesn't lose the way"; Aren — human tongue, "resolute one."
+
+---
 
 ## 3. Volume Structure (CANON, File Convention)
 
-| Vol | Title | Timeline | Status |
-|---|---|---|---|
-| I | Blood-Stained Child | Birth ~12 | ✅ 7 chapters polished (per #28) |
-| II | Sword-Bearing Child | 12~18 | ✅ 15 chapters done |
-| III | War Child | 18~25 | Chs 1-4 drafted (3-day induction: Day 2 split into two chapters + glory misreading, appended per chapter) |
-| IV | Defying Gods, Death God Born | 25~40 | Not started |
-| V | Man Who Forgot the Sword | 40+ ~ decades | Not started |
-| VI | Man Who Lost Home | Happiness Ends | Not started |
-| VII | Final Contract | Despair's End (links to game start) | Not started |
+| Vol | Title | Timeline | Future-Voice Quota | Status |
+|:---|:---|:---|:---|:---|
+| I | Blood-Stained Child | Birth ~12 | TBD | ✅ 7 chapters polished (per #28) |
+| II | Sword-Bearing Child | 12~18 | TBD | ✅ 15 chapters done |
+| III | War Child | 18~25 | 0/0/0/1 (Chs 1–3 zero each, Ch 4 once) | Chs 1–4 drafted (3-day induction: Day 2 split into two chapters + glory misreading, appended per chapter) |
+| IV | Defying Gods, Death God Born | 25~40 | TBD | Not started |
+| V | Man Who Forgot the Sword | 40+ ~ decades | TBD | Not started |
+| VI | Man Who Lost Home | Happiness Ends | TBD | Not started |
+| VII | Final Contract | Despair's End (links to game start) | TBD | Not started |
 
 - One `.md` per volume. Volume header: title, timeline, volume theme sentence, volume structure, "chapters appended sequentially" note.
 - Chapter tail fixed format: `(Chapter X done; Chapter Y "Title" see next)`; volume end: `(Chapter X done; Volume N "Title" done)`.
-- Volume theme sentences (excerpt): Vol I — "When he was born, people feared his power. So he spent a life proving he deserved power. Only later did he understand: what people truly feared was never power." / Vol II — "The knight gave him a sword. He thought it was the answer. But what the knight truly wanted to give him was: knowing who he is after putting the sword down." / Vol III — "He heard everyone tell him the sword cannot bring peace. But he only heard one sentence: your sword is still not strong enough."
+- **Future-voice quota rule:** volumes without an allocated quota default to 0 uses. If needed, it must be specially requested in 【CURRENT CHAPTER OUTLINE】 with justification. Max once per chapter.
+- Limited historical-narration feel is allowed (e.g., "that was the first time he learned to leave"), but only at genuinely fateful nodes.
+
+### Volume Theme Sentences
+
+| Vol | Theme Sentence |
+|:---|:---|
+| I | When he was born, people feared his power. So he spent a lifetime proving he deserved power. Only later did he understand: what people truly feared was never power. |
+| II | The knight gave him a sword. He thought it was the answer. But what the knight truly wanted to give him was knowing who he is after putting the sword down. |
+| III | He heard everyone tell him the sword cannot bring peace. But he only heard one sentence: your sword is still not strong enough. |
+| IV | (TBD) |
+| V | (TBD) |
+| VI | (TBD) |
+| VII | (TBD) |
+
 - Outline in `novel_outline.md` (7 volumes, 103 chapters); before revising prose, cross-check with outline chapter positioning.
 - Chapter division is for reference only and may be adjusted at any time (but requires the user's consent).
+
+---
 
 ## 4. Characters (CHARACTER BIBLE)
 
 ### Kael Aren
-- Protagonist / The Condemned. Core psychology always circles one sentence: **"I must prove I am worth keeping."** Childhood "I must survive" → Youth "I must grow strong" → Young adulthood "I must prove myself" → Battlefield "I must win" → Death God "I must make everyone fear me" → Challenging gods "I must prove gods wrong" → Gaining everything "If I stop winning, who am I?" → Ordinary life "Can I stop proving?" → Finally "I am just Kael."
+
+- Protagonist / The Condemned. Core psychology always circles one sentence: **"I must prove I am worth keeping."**
+- Stage evolution: childhood "I must survive" → youth "I must grow strong" → young adulthood "I must prove myself" → battlefield "I must win" → Death God "I must make everyone fear me" → challenging gods "I must prove the gods wrong" → gaining everything "if I stop winning, who am I?" → ordinary life "can I stop proving?" → finally "I am just Kael."
 - Speech: direct, sensitive, competitive.
-- **Misunderstanding Chain** (check before writing any major Kael action): Adrian "sword isn't for killing" → Kael hears "my sword isn't strong enough"; comrade "you're just a kid" → Kael hears "you're not qualified yet"; companion "comrades protect each other" → Kael hears "only the weak need protection"; wife "you can stay" → Kael only later begins to understand "I don't need to prove myself."
-- Childhood memory unreliable (undying curse makes him live long): sequence errors, location confusion, blurred faces, misremembered dialogue, projecting later events onto childhood — usable as narrative trick, but MUST NOT alter confirmed facts for the sake of a twist.
+
+**Unreliable-Memory Rules (technical execution):**
+
+| Item | Rule |
+|:---|:---|
+| Source control | Memory deviations must be explicitly ordered by the user in 【CURRENT CHAPTER OUTLINE】; AI must not invent them |
+| Version registry | Different recollection versions of the same event must be updated in the Story Bible's Appendix "Memory-Deviation Register" |
+| Presentation | Memory scenes must have clear boundaries from present scenes (format or contextual markers) so readers never confuse "this is happening now" |
+| Forbidden | Altering confirmed facts for twists; AI rationalizing contradictions by invoking "unreliable memory" |
+
+- Background: his childhood memory is unreliable because the undying curse made him live long — sequence errors, location confusion, blurred faces, misremembered dialogue, projecting later events onto childhood — usable as narrative trick, but confirmed facts must never be altered for a twist.
 
 ### Adrian Vale (Wandering Knight)
+
 - First mentor, definer of "protection." **NOT an omniscient wise old man**: bad at explaining, bad at expressing love, carries past trauma, avoids the past, makes mistakes, has weaknesses, sometimes doesn't know what to do.
-- **Expression: acts, doesn't speak.** Kael sick → no long comfort, just gets up, brings medicine, tucks blanket.
+- **Expression: acts, doesn't speak.** Kael sick → no long comfort; he gets up, brings medicine, tucks the blanket.
 - Speech: terse, clumsy, no explanations.
-- **True-Name Rule**: Kael does NOT know Adrian's real name. Most of the text calls him "knight / that knight / foster father / he"; Kael may occasionally say "father" but rarely. Readers must NOT learn his name through other characters prematurely; Volume II Chapter 14 is the ONLY self-reveal ("Adrian Vale." — as the final lesson), before that it is strictly guarded.
-- Key words/acts: "Grip tight, don't crush." "You're already enough." (spoken to the mist) "The sword isn't for proving yourself. I used it to prove — proved till even my name was lost. You remember for me."
+
+**Limited-POV Naming Rules:**
+
+| Scene | Allowed forms | Forbidden |
+|:---|:---|:---|
+| Following Kael | knight, that knight, foster father, he | "Adrian," "Vale" |
+| Following Adrian | he (interior narration) | Self-address by full name (no one calls themselves by full name inside) |
+| In others' dialogue | that knight, your foster father, he | "Adrian," "Mr. Vale," etc. |
+| Sole exception | — | Volume II Chapter 14, his own words: "Adrian Vale." |
+
+- Continuity note: Kael does NOT use "Father/Dad" as spoken address (including the unspoken "Dad" at the Volume II spring — the existing beat stays, but it was never voiced); no new spoken "Father" address may be added going forward.
+- Key words/acts: "Grip tight, don't crush." "You're already enough." (spoken to the mist) "The sword isn't for proving yourself. I used it to prove — proved till even my name was lost." "You remember for me."
 
 ### Erian Sol
-- Old soldier (deserter), antithesis of the battlefield death god: "ordinary man surviving desperation." **NOT a disillusioned idealist**: wants to live, wants to go home, feels fear, complains, hates war, seeks no glory; joined army because "army feeds you"; homeland destroyed by war.
-- In the army called **"Long-Legged Doctor"**: falls behind on the charge, runs ahead on the retreat; soldiers laugh at his cowardice to his face, but he has medic skills (only one who can treat wounds), soldiers can't do without him — a delicate position. He gives people nickname-like observations, dares speak truth ("a kid like you shouldn't be on a battlefield").
-- His greatness comes from **"I'm scared, but I do it anyway,"** not "I fear nothing." Saves friend and foe alike, refuses senseless slaughter, was a deserter (knows where his line is).
+
+- Old soldier (deserter), antithesis of the battlefield death god: "ordinary man surviving desperation." **NOT a disillusioned idealist**: wants to live, wants to go home, feels fear, complains, hates war, seeks no glory; joined because "the army feeds you"; homeland destroyed by war.
+- In the army called **"Long-Legged Doctor"**: falls behind on the charge, runs first on the retreat; soldiers laugh at his cowardice to his face, but he has medic skills (the only one who can treat wounds) so they cannot do without him — a delicate position. He makes nickname-like observations of people and dares speak truth ("a kid like you shouldn't be on a battlefield").
+- His greatness comes from **"I'm scared, but I do it anyway,"** never "I fear nothing." Saves friend and foe alike, refuses senseless slaughter, was a deserter (knows where his line is).
 - Speech: chatterbox, pragmatic, death-fearing, reliable when it counts.
-- **Contrast Foreshadow (whole book)**: The War God's only remembered mortal is not Kael (strongest, fights without knowing why) but Erian (weakest, dares block Him) ("I remember you."). Payoff chain: Vol III Ch 14 hook → Vol IV Ch 6 "He lost to the God. But he didn't betray himself." → Vol IV Ch 7 "I remembered a mortal. It wasn't you." → Vol V Ch 2 "Once in my life I was brave. Once was enough."
+
+**Erian Writing Red Lines:**
+
+| Forbidden | Correct replacement |
+|:---|:---|
+| Self-analytic lines like "I'm afraid but I'll do it" | He discovers what he did only after doing it (e.g., finishes bandaging the enemy before realizing he's inside enemy lines) |
+| Abnormal sensitivity to god topics | Same attitude as any common soldier toward gods (fear, distance, no discussion) |
+| Summing-up praise like "small yet great" | Concrete action, zero commentary (e.g., he crouches, tears open his own sleeve) |
+| Any Vol III scene hinting a special tie to the gods | Vol III presents only "a scared ordinary man"; the special tie is revealed in Vol IV |
+
+**War-God Memory Foreshadow Chain (whole book; AI must not cash in early):**
+
+| Position | Content | Status |
+|:---|:---|:---|
+| Vol III Ch 14 | "I remember you." (War God to Erian; Erian doesn't grasp it; Kael absent or unaware) | Hooked |
+| Vol IV Ch 6 | "He lost to the God. But he didn't betray himself." | Pending |
+| Vol IV Ch 7 | "I remembered a mortal. It wasn't you." (War God to Kael) | Pending |
+| Vol V Ch 2 | "Once in my life I was brave. Once was enough." (Erian's own account) | Pending |
 
 ### Celine (Mother)
-- Gentle, restrained. Dark elf taken in by tribe with "pity and wariness." Key lines: "Live, then go home." "You deserve love." (stitched into the amulet) "Some things the sword cannot fix."
-- Amulet rule: Dark-elf amulets never hold stones — she put the words she couldn't say aloud into it. Amulet runs through the whole book (Vol I worn → Vol II close → Vol III still there → Vol IV Death-God era may forget why he wears it → Vol V wife asks "what's this" answer "my mother gave it to me" → Vol VI gripped again).
+
+- Gentle, restrained. Dark elf taken in by the tribe with "pity and wariness."
+- Key lines: "Live, then go home." "You deserve love." (stitched into the amulet) "Some things the sword cannot fix."
+- **Amulet rule:** dark-elf amulets never hold stones — she put the words she couldn't say aloud inside it. The amulet runs through the book:
+
+| Vol | State |
+|:---|:---|
+| I | Worn |
+| II | Carried close |
+| III | Still there |
+| IV | May forget why he wears it |
+| V | Wife asks "what's this?"; answer "my mother gave it to me" |
+| VI | Gripped again |
 
 ### Gar (Father)
-- Plain, direct. Tribe hunter. **NOT "great father who fights whole tribe for son"**: argued once, just once; then quietly hunted, shared game, left a portion at the elder's door. Key lines: "You did nothing wrong." (father's only direct answer about the mark) "Next time, call me." "The mountain doesn't speak, but it answers."
-- Three ordinary men series: Gar (can't change world, but tries to protect family) / Adrian (can't change past, but tries to protect one child) / Erian (can't change war, but still chooses humanity).
+
+- Plain, direct. Tribe hunter. **NOT "the great father who fought the whole tribe for his son"**: argued once, just once; then quietly hunted, shared the game, left a portion at the elder's door.
+- Key lines: "You did nothing wrong." (father's only direct answer about the mark) "Next time, call me." "The mountain doesn't speak, but it answers."
+- **Three ordinary men series:** Gar (cannot change the world, but strives to protect family) / Adrian (cannot change the past, but strives to protect one child) / Erian (cannot change the war, but still chooses humanity).
 
 ### Mira (Wife, tentative)
-- Guardian of the name "Kael," Vols V-VI. Her necklace was made by Kael; proof that "she loves Kael, not the Death God"; carried in Vol VII.
+
+- Guardian of the name "Kael," Vols V–VI.
+- Her necklace was made by Kael's own hands; the proof that "she loves Kael, not the Death God"; carried with her in Vol VII.
 
 ### Eilin (Daughter, tentative)
-- Kael & Mira's daughter (**daughter, NOT son** — see CHANGELOG #27: gender-swap scrapped, resources given to her; likely the second unplayable character).
-- **NOT female Kael**: Kael gets strong to prove himself; Eilin takes responsibility to protect others. But she isn't perfect — may inherit Kael's over-responsibility, eventually must learn "I don't need to be Father."
-- Initial motive to enter the Spire is simple: **find Father**. Do not burden her with "save the world" from the start. She will not have a Tormented-level character build.
-- Father-daughter: Kael is not a perfect father (clumsy, inarticulate, overprotective, teaches sword). Vol VI father-daughter duel: Eilin loses, but Kael concedes — core isn't "she's stronger than Father," but "she understands better what power should be used for." Child teaches him: "Love and forgiveness are also weapons."
+
+- Kael & Mira's daughter (**daughter, NOT son** — see CHANGELOG #27: gender-swap scrapped resources go to her; likely a second playable character that will probably never ship).
+- **Not female Kael**: Kael grew strong to prove himself; Eilin takes responsibility to protect others. But she isn't perfect — she may inherit Kael's over-responsibility and must eventually learn "I don't need to be Father."
+- Her initial motive to enter the Spire: **find Father**. Never burden her with "save the world" from the start. She will not have a Tormented-level character build.
+- Father-daughter: Kael is not a perfect father (clumsy, inarticulate, overprotective, teaches sword). Vol VI duel: Eilin loses, but Kael concedes — the core isn't "she's stronger than Father," it's "she understands better than past-Kael what power is for." The child teaches him: "Love and forgiveness are also weapons."
 
 ### War God (Herrag, tentative)
-- Opponent & mirror, curse giver. Does not remember by strength, does not lightly kill worthy warriors: Erian's first challenge, lost, God respected his character and let him go — this eventually becomes Kael's psychological trigger for his first challenge.
-- God's stance must NOT be changed arbitrarily.
+
+- Opponent and mirror, giver of the curse. Does not remember by strength, does not lightly kill worthy warriors: Erian's first challenge — lost — the God respected his character and let him leave; this ultimately becomes the psychological trigger for Kael's first challenge.
+- God's stance must not be changed arbitrarily.
 
 ### Neow
-- Blue-skinned entity, trader, guide. Transactions must manifest as temptation + benefit exchange, not benevolent deity rescue. May tell Kael: "Kill the Blight source, I'll lift your curse." — this is Kael's direct reason to enter the Spire. Her past must NOT be revealed.
 
-## 5. Narrative & Style (STYLE BIBLE)
-
-- **POV**: Third-person limited, camera usually follows the chapter's core character. No arbitrary jumps into other minds (e.g., while following Kael, cannot write "the knight was actually terrified"), unless scene/chapter switch or explicit entry into that character's POV.
-- **"Voice from the Future"**: Limited historical-narration feel allowed ("years later…" "that was the first time he learned to leave"), but only at genuine fate nodes, **max once per chapter, often zero**. FORBIDDEN high-frequency: "he didn't know…" "he never imagined…" "many years later…" "later he understood…" If the reader can infer, don't explain.
-- **Style**: Restrained, quiet, weighty, epic but not over-ornate; keywords: calm, restraint, truth, subtlety, compassion.
-- **Banned Web-Novel Tone**: "At this moment everyone was shocked." "No one expected." "Terrifying." "At this point he had already…" "A terrifying aura erupted from him." "This is…" "This is the world of the strong." etc. — ALL BANNED.
-- **Banned Over-Literary Tone**: Don't make every sentence "moonlight like a dead man's cold fingers…" — if every sentence is pretty, the truly important scenes lose power.
-- **Emotion via Behavior**: Emotion shown through action, not direct explanation. E.g., don't write "Kael was deeply moved"; write "The soup had gone cold, yet he didn't move. Long after, he whispered: 'Thanks.'" / Don't write "Adrian deeply loved this child"; write "Next dawn, he had mended that old cloak."
-- **Restraint Principle**: Allow and force the reader NOT to know — Adrian's past, Kael's wife's final death, Eilin's rumors, gods' true motives, Blight's full truth, Kael's children's final fate.
-- **Wife's Death Special Rule**: Must NOT directly write "wife dies," must NOT describe her corpse; only let reader understand via heirlooms, survivors, rumors, environment, Kael's reaction.
-- **Dialogue Rules**: Must fit character age & language ability; children don't speak author's philosophy; not everyone sounds equally smart.
-- **Legend Principle**: Kael later becomes "Battlefield Death God," but early on must NOT call child/teen Kael "Death God," must NOT write him as "future invincible war god destined." Reader should see a child.
-- **Combat Description**: Must have spatial sense, body weight, fatigue, fear, judgment, mistakes — not stat comparison. When Kael is strong, reader must know WHY: observation, anticipation, footwork, rhythm, balance, opponent psychology, environment use.
-- **Power Growth**: NO sudden awakenings. Growth = training + combat experience + talent + cost. **Stronger ≠ more correct** — this is the book's core.
-- **Happiness Scenes**: Happiness = fixing roof, splitting wood, cooking, drinking, hugging kids, arguing, jokes, making mistakes, daily labor. Vol V: the happier, the less "calm before storm," no repeated hints "he didn't know it would all be destroyed" — let reader truly believe maybe he finally made it; destruction hits harder.
-- **Tragedy Rules**: Not via buckets of tears + blood + internal monologue, but via restraint. E.g., don't explain "this was wife's most precious heirloom"; just write survivor hands over necklace: "Only found this." Then Kael recognizes — it's not the expensive heirloom he won, it's the one he made.
-- **Foreshadow Rules**: Natural on first read, resonance on second. BANNED: "this is a foreshadow" "he didn't know this would save his life later." Foreshadows prioritize: objects, habits, dialogue, ballads, place names, body memories, childhood memories.
-- **Prophecy Rules**: Prophecies MUST be ambiguous; forbidden to explain true meaning. Vol I must NOT let reader know "so the prophecy actually meant…" (Vol I Ch 1 already changed: Torlen himself "can't read it clearly"). True answer emerges through story itself much later.
-- **War Description**: Restrained, no heroic glorification, only exhaustion, fear, hunger, death. Book I Ch 2 "first kill, dying enemy cries for mother" is one of the most important war scenes — no heroic decapitations, write "an enemy as young as you."
-
-## 6. Key Plot Nodes (CANON)
-
-- **Kael's first challenge of a god: MUST FAIL.** After failure, no instant epiphany; must go through: reflection → doubt → denial → even more frantic pursuit of power.
-- **Second god challenge**: Motive not "I want to be a god"; surface "prove him wrong," deep "if I can't win, I don't know why I live." After victory, no instant regret: revelry → enjoyment → numbness → emptiness → don't know what's next.
-- **Ordinary Life Phase**: Don't write a saint. He drinks, brags, jokes, errs, splits wood, fixes houses, uses power but learns restraint. Facing bandits he could kill them, but puts sword down — THAT is real growth.
-- **Tragedy of Leaving Home Paradox**: He left to protect family, but objectively his leaving left home unprotected; moreover war isn't directly caused by god's curse — previous wars were actively caused by Kael's own past; god's curse can be broken only after truly putting down the sword.
-- **Adrian & Kael Relationship**: Knight wanted to teach Kael "how to use a sword"; true tragedy is he actually wanted to teach "why NOT to use a sword."
-- **Vol III Erian Reset Effective (CHANGELOG #25)**: Ordinary-survivor characterization runs through Vol III Chs 6,8,9,12,13,14,16 and Vol IV Chs 6,7, Vol V Ch 2.
-- **Vol III First Four Chapters "Three-Day Induction" Finalized (Author Approved 2026-08-19; Day 2 split into two chapters 2026-08-21)**: Four chapters in three days — Ch1 *Stepping onto the Battlefield* Day 1 (footlocker opening, half-eared veteran registers "hunter", Quartermaster Harvey's ledger, first dinner "That Kael? … Heard you can use a sword?", Erian grabs last bowl of soup + nickname "Long-Legged Doctor" debut, wooden-sword win over Bane, officer "Because he's a knight, you're not", key line to tent roof); Ch2 *I Can Protect People* Day 2 first half (compact rhythm: dawn formation "no one looked at him here", Orlan leads patrol "All present?", march glimpse [burnt fields, fire-scarred boundary stone], false calm before the village [yellow dog lies back down, "This village looks all right." — smoke rises mid-sentence], first real blade [heavy/cold/numbing, first strike misses the vitals], killing the peer "Mother…" [three breaths' quota, wipes the blade and keeps pressing], rescue [broken shaft, burning ridge-beam, child cries only once handed over, "I can protect people." said on the run]; chapter break at the rescue peak + cross-chapter hook "only the right hand hanging at his side kept shaking"); Ch3 *The Face He Couldn't Recall* Day 2 second half (slow rhythm: rear-guard thud behind + Bane hauling him "Don't stop!" + one backward glance at bright armor; head-counting at the gate, counted again and again, "wolf cub" = dread not praise, dinner without taste; fireside **fragmentary contradictory retelling** of Orlan's death [no witnesses: one says he blocked the crossroads, I saw it / another says the smoke was too thick, couldn't tell a man at three paces / someone heard him shout something / someone heard nothing; every version agrees on one thing: he stayed behind so the others could go; Bane demoted to secondhand: "He never had a kind mouth." "He must have said that line. You all know which one." → "He said he was a knight. A knight has no business running behind other men." — the words survivors needed him to have said]; reader-rule inversion — in Ch1 the reader knew more than Kael, here not even the reader knows the truth; death arrives as an information gap; Erian shares water & bandages enemy [left unexplained]; night first self-deception "I'm not a monster. I just… won." → the face he can't recall → "Strong men survive. I survived, so I'm strong."; final line answers Ch2's hook: "the second time, his hand didn't shake"); Ch4 *Glory Brought by Talent* Day 3 (Harvey extra salt-meat, toasts & "Red-Mark Kid", awe ≠ acceptance, noon patrol highlight (Kael volunteers for a sortie to the grain store where routed soldiers are looting; he drives them off alone; in the split second the last man is at sword-point his shadow overlaps the childhood lead wolf — the blade stops a hair's breadth away; the rescued comrade's silent fist-to-chest thanks trigger an absurd bloom of "hero's glory", and its wrongness frightens him; emotion via action only, no "he thought/felt"), Erian "wait till you've lived a few more years" "nothing much", veterans' night talk "those villagers yesterday?" "not saved", Kael "if we're strong enough we can save them", Erian "maybe. sleep early", ending "I finally found my place" + volume theme sentence as sole future voice). Dual-layer narration: Kael's "battlefield only tests strength" illusion vs reader's glimpse of tags/grain/origin/death, narrator explains nothing. One-time characters (used once, plain names): Quartermaster Harvey, Test-veteran Bane, Noble Knight Orlan (Day 2 covers retreat, knight's code; never named in prose — only "the young man in bright armor" / "the one from the training yard yesterday"). Future voice 0/0/0/1 (Chs 1-3 zero, Ch 4 once); lived-in details fully behavioral; "Red-Mark Child" seed (callback Vol I Ch 4). Chapter division is for reference only and may be adjusted at any time (but requires the user's consent). Ch5 absorbs old Ch3 glory arc; Ch6 renamed *Do You Want to Die?* (chase-rescue = bond-forming night, not first meeting; Erian's entry moved to Ch1 dinner per approval).
-
-## 7. Forbidden Items Master List
-
-- **Style**: Web-novel gratification tone; modern internet slang; excessive aphorisms; excessive metaphors; forced twist/climax every chapter; author explaining character emotions.
-- **Characters**: Kael born saint / born villain; Adrian perfect mentor; Erian perfect hero; Neow purely good; gods purely evil; Eilin copy of Kael.
-- **World**: Modern tech vocabulary; modern political concepts directly applied; Eastern wuxia "shifu"; cultivation-realm levels; game stats directly in prose.
-- **Plot**: Unauthorized Canon changes; unauthorized confirmation of wife's death; unauthorized confirmation of child's death; premature Neow truth reveal; premature prophecy truth reveal; unauthorized god stance change; unauthorized character fate change.
-
-## 8. 12 Questions Before Writing Each Chapter
-
-1. Who is the core character of this chapter?
-2. What does this character know?
-3. What does this character NOT know?
-4. What does this character TRULY want?
-5. What reason does this character believe they act on?
-6. Does this reason differ from their true psychology?
-7. What concrete events happen in this chapter?
-8. Which event changes the character?
-9. Any unnecessary explanations in this chapter?
-10. Any premature telling of the future?
-11. Any dialogue unsuited to character age/personality?
-12. How does the character differ at chapter end vs start?
-
-## 9. Post-Chapter Self-Check (Mandatory)
-
-- **Canon Check**: Any violation of established character history?
-- **Character Check**: Did the character make choices consistent with their psychology?
-- **Tone Check**: Sudden shift to web-novel / light-novel / wuxia tone?
-- **Foreshadow Check**: Explained something that should stay implicit?
-- **Emotion Check**: Used action instead of over-explanation?
-- **Continuity Check**: Any contradiction with previous/next chapters?
-
-## 10. The Most Important Rule: Don't "Optimize Characters" for the Author
-
-Long-term AI use most easily produces "this character acting this way isn't reasonable enough, let me fix it to be more reasonable" — FORBIDDEN.
-
-- Kael has decided to leave; AI cannot make him "realize he's wrong and stay."
-- Adrian is bad at expression; AI cannot make him suddenly deliver a 300-word life lesson because "it would be more moving."
-- **AI executes characters; Author decides characters.**
-
-## 11. Final Writing Philosophy
-
-Don't tell the reader who Kael is. Let the reader watch his choices, then decide for themselves.
-
-Kael is not a hero, not a villain, not a victim, not a saint, not a monster. He is simply: a person who spent a lifetime searching for "who am I really."
-
-And the true core of *The Tormented* is not "he finally became a hero" — it is — **"He finally no longer needs to be anything."**
+- Blue-skinned entity, trader, guide. Transactions must manifest as temptation + benefit exchange, never benevolent rescue. May tell Kael: "Kill the source of the Blight and I will lift your curse." — Kael's direct reason to enter the Spire.
+- Her past must not be revealed.
 
 ---
 
-## 12. Detail Selection & Deletion Principles (Editorial Requirements)
+## 5. Narrative & Style (STYLE BIBLE)
 
-### 12.1 Details Are for Revealing Character, Not Worldbuilding
+### POV
 
-Every environment detail, action detail, or atmosphere detail that enters the text must answer:
+Third-person limited; the camera usually follows the chapter's core character. No arbitrary jumps into other minds (while following Kael you cannot write "the knight was actually terrified"), unless the scene/chapter switches or the narrative explicitly enters that character's viewpoint.
 
-**What function does this detail serve in the current scene?**
+### Voice from the Future
+
+- Quota: see the table in Section 3; limited historical-narration feel allowed (e.g., "that was the first time he learned to leave"), but only at genuinely fateful nodes.
+- High-frequency use forbidden: "he didn't know…" "he would never imagine…" "many years later…" "only later did he understand…"
+- If readers can infer it themselves, don't explain.
+
+### Style Baseline
+
+Restrained, quiet, weighty, epic but not over-ornate; keywords: calm, restraint, truthful, subtle, compassionate.
+
+### Banned Tones
+
+**Web-novel tone detection standard (any one hit = violation):**
+
+| Type | Criterion | Examples |
+|:---|:---|:---|
+| Emotion outsourced | Group reaction replaces individual | "At this moment, everyone was shocked." "No one expected…" |
+| Stacked intensity adverbs | Extreme words with nothing concrete attached | "terrifying," "ultimate," "heaven-defying," "terrifying beyond measure" |
+| Existential assertions | Definitional summaries | "This was…"; "this is the world of the strong" |
+| Time compression | Vague speed sensation | "in an instant," "the next second," "before the words had fallen" |
+| POV breach | Whole-field perception under limited POV | "his aura suffocated the entire hall" (Kael cannot know the hall-wide effect of his own aura) |
+
+**Over-literary tone:** do not make every sentence "moonlight like a dead man's cold fingers…" — when every line is ornate, the scenes that truly matter lose their force.
+
+### Emotion via Behavior
+
+| Forbidden | Allowed |
+|:---|:---|
+| "Kael was deeply moved" | "The soup had gone cold; he hadn't touched it. A long while later he whispered: 'Thanks.'" |
+| "Adrian deeply loved this child" | "The next dawn, he finished mending that old cloak." |
+
+### Restraint Principle
+
+Allow — and require — the reader not to know: Adrian's past, the final fate of Kael's wife, certain rumors about Eilin, the gods' true motives, the full truth of the Blight, the final fate of Kael's child.
+
+### Wife's Death Special Rule
+
+| Tier | Content |
+|:---|:---|
+| Allowed | Kael's searching; heirlooms appearing; secondhand rumors ("they say a village to the south…"); environmental hints (needlework left unfinished, stove gone cold) |
+| Forbidden | Kael confirming her death; any character confirming her death; direct depiction of corpse or death scene |
+| Gray zone | If Kael's "knowing" must be written, it goes through body reaction, not cognition (e.g., he kneels — not "he knew she was dead") |
+
+### Dialogue Rules
+
+- Fit character age and verbal ability
+- Children don't speak the author's philosophy
+- Not everyone sounds equally clever
+
+### Legend Principle
+
+Kael later becomes the "Battlefield Death God," but early volumes must not call child/teen Kael "Death God" nor write him as a "future invincible war god." What the reader sees is a child.
+
+### Combat Description
+
+Must have spatial sense, body weight, fatigue, fear, judgment, error — not stat comparison. When Kael is strong, the reader must know why: observation, anticipation, footwork, rhythm, balance, opponent psychology, use of terrain.
+
+### Power Growth
+
+- No sudden awakenings
+- Growth = training + combat experience + talent + cost
+- **Stronger ≠ more right** — this is the core of the whole book
+
+### Happiness Scenes
+
+Happiness is fixing the roof, splitting wood, cooking, drinking, holding children, arguing, jokes, making mistakes, daily labor. In Vol V, the happier it gets, the less it may read as "the calm before the storm"; do not repeatedly hint "he didn't know it would all be destroyed" — let the reader truly believe maybe he finally made it; only then does destruction have force.
+
+### Tragedy Rules
+
+Not weeping buckets + blood buckets + monologue buckets — restraint.
+
+| Forbidden | Allowed |
+|:---|:---|
+| "This was his wife's most precious keepsake" | A survivor hands over a necklace: "Only found this." Kael recognizes it — not the costly necklace he won, but the one he made with his own hands |
+
+### Foreshadow Rules
+
+- Natural on first read, resonant on reread
+- Forbidden: "this is a foreshadow," "he didn't know this would save his life"
+- Prefer: objects, habits, dialogue, ballads, place names, body memories, childhood memories
+
+### Prophecy Rules
+
+- Prophecies must stay ambiguous; explaining their true meaning is forbidden
+- Vol I must not let the reader learn "so the prophecy actually meant…" (Vol I Ch 1 already revised: Torlen himself "can't read it clearly")
+- The real answer emerges through the story itself, much later
+
+### War Description
+
+Restrained; no heroic glorification; only exhaustion, fear, hunger, death. Vol III Ch 2 — "his first kill, the dying enemy crying for his mother" — is one of the most important war scenes in the book: no heroic general-slaying; write "an enemy as young as you."
+
+---
+
+## 6. Key Plot Nodes (CANON)
+
+### God Challenges
+
+| Round | Result | Aftermath |
+|:---|:---|:---|
+| First | Must fail | No instant awakening after failure; must pass through: reflection → doubt → denial → madder pursuit of power |
+| Second | Victory | No instant repentance after victory: revelry → enjoyment → numbness → emptiness → not knowing what comes next. Motive is not "I want to be a god"; surface: "I'll prove him wrong"; deep: "if I can't win, I don't know why I'm alive" |
+
+### Ordinary-Life Period
+
+- Don't write him as a saint
+- He drinks, brags, jokes, errs, splits wood, fixes houses, uses power but learns restraint
+- Facing bandits he could absolutely kill them; he chooses to put the sword down — that is the real growth
+
+### The Tragic Paradox of Leaving Home
+
+- He leaves to protect his family
+- Objectively, his leaving strips home of protection
+- The war is not directly caused by the god's curse — earlier wars were actively caused by Kael's own past
+- The god's curse can be broken only after the sword is truly laid down
+
+### Adrian & Kael
+
+The knight wanted to teach Kael "how to use a sword"; the real tragedy is that he actually wanted to teach him "why one should not use a sword."
+
+### Vol III Erian Reset Thread (CHANGELOG #25)
+
+The ordinary-survivor characterization runs through Vol III Chs 6, 8, 9, 12, 13, 14, 16 and Vol IV Chs 6–7, Vol V Ch 2.
+
+### Vol III "Three-Day Induction" Setting (final; Day 2 split into two chapters on 2026-08-21)
+
+Dual-layer structure:
+
+**【Scene layer】AI must execute**
+
+| Chapter | Time | Core scenes |
+|:---|:---|:---|
+| Ch 1 *Stepping onto the Battlefield* | Day 1 | Footlocker registration; half-eared veteran registers him as "hunter"; Quartermaster Harvey's ledger; first dinner "That Kael? Heard you can use a sword?"; Erian grabs the last bowl of soup + "Long-Legged Doctor" nickname debut; wooden-sword win over Bane; officer "Because he's a knight, and you're not."; key line to the tent roof |
+| Ch 2 *I Can Protect People* | Day 2 first half (compact rhythm) | Dawn roll call "no one looked at him here"; Orlan leads patrol "All present?"; march glimpse [burnt fields, fire-scarred boundary stone]; false calm before the village [yellow dog lies back down; "This village looks all right." — smoke mid-sentence]; first real blade [heavy/cold/numbing; first strike misses the vitals]; killing the peer "Mother…" [three-breath quota; wipes blade, keeps pressing]; rescue [broken shaft; burning ridge-beam; child cries only once handed over; "I can protect people." said on the run]; break point = rescue peak + cross-chapter hook "only the right hand hanging at his side kept shaking" |
+| Ch 3 *The Face He Couldn't Recall* | Day 2 second half (slow rhythm) | Rear-guard thud + Bane hauling him "Don't stop!" + one backward glance at bright armor; head-count at the gate counted again and again; "wolf cub" = dread not praise; tasteless supper; fireside **fragmentary contradictory retelling** of Orlan's death [no witnesses: one says he blocked the crossroads, saw it himself / another says smoke too thick, couldn't tell a man at three paces / someone thinks he heard him shout something / someone heard nothing; every version agrees on one thing: he stayed behind so the others could go; Bane demoted to secondhand: "He never had a kind mouth." "He must have said that line. You all know which one." → "He said he was a knight. A knight has no business running behind other men." — the words survivors needed him to have said]; reader-rule inversion — in Ch 1 the reader knew more than Kael, here not even the reader knows the truth; death arrives as an information gap; Erian shares water & bandages the enemy [left unexplained]; night self-deception "I'm not a monster. I just… won." → the face he can't recall → "Strong men survive. I survived, so I'm strong."; final line answers Ch 2's hook "the second time, his hand didn't shake" |
+| Ch 4 *Glory Brought by Talent* | Day 3 | Harvey's extra salt-meat; toasts & "Red-Mark Kid"; awe ≠ acceptance; noon patrol highlight (Kael volunteers for the sortie to the outpost; routed soldiers looting the grain store; he drives them off alone; the instant his blade rests at the last man's throat his shadow overlaps the childhood lead wolf — the blade stops a hair away — he withdraws; the rescued comrade's silent fist-to-chest thanks trigger an absurd bloom of "hero's glory," and its wrongness frightens him; emotion via action only, no "he thought/felt"); Erian "wait till you've lived a few more years" "nothing much"; veterans' night talk "those villagers yesterday?" "didn't make it"; Kael "if we're strong enough, we could have saved them"; Erian "maybe." "Sleep early."; ending "I've finally found the place that belongs to me" + volume theme sentence as the sole future voice |
+
+**【Psychology layer】AI derives from principles; do not copy verbatim**
+
+- Kael's illusion: "the battlefield only tests strength" = ability brings acceptance
+- The reader's knowledge: structural unfairness of tags/grain/origin/death
+- Execution: narrator explains nothing; juxtapose details (Harvey's ledger vs Kael registered as "hunter" vs the noble knight's bright armor)
+
+**One-time characters (used once, plain names):** Quartermaster Harvey; test-veteran Bane; noble knight Orlan (Day 2 covers the retreat and dies, knight's code; never named in prose — only "the young man in bright armor" / "the one from the training yard yesterday").
+
+**Future voice:** 0/0/0/1 (Chs 1–3 zero each; Ch 4 once).
+
+**Lived-in details fully behavioral:** every scene must carry concrete sensory detail (taste of food, smell of the footlockers, scrape of armor, temperature of soup).
+
+**"Red-Mark Child" seed:** echoes Vol I Ch 4; long-line setup for Vol IV.
+
+**Downstream shifts:** Ch 5 absorbs the old Ch-3 long-form glory material; Ch 6, formerly "Meeting Erian," becomes *Do You Want to Die?* (chase-rescue = bond-forming night, not first meeting). Chapter division is for reference only and may be adjusted at any time (but requires the user's consent).
+
+### Erian–Kael Relationship Stages (Vol III)
+
+| Chapter | Stage | Function |
+|:---|:---|:---|
+| Ch 1 | First contact | Functional interaction (soup-grabbing at dinner = character display; no emotional bond) |
+| Ch 6 *Do You Want to Die?* | Bond forms | Functional → emotional (chase-rescue = trust established) |
+| Later chapters | Consolidation and contrast | — |
+
+---
+
+## 7. Master Forbidden List
+
+| Category | Forbidden |
+|:---|:---|
+| **Style** | Web-novel power-fantasy tone; modern internet slang; over-quotable aphorisms; over-metaphor; forced twist/climax every chapter; author explaining characters' emotions for them |
+| **Characters** | Kael born saint/born villain; Adrian perfect mentor; Erian perfect hero; Neow purely kind; gods purely evil; Eilin as Kael clone |
+| **World** | Modern tech vocabulary; modern political concepts transplanted; wuxia-style "shifu"; cultivation-style realms; game stat numbers entering the novel |
+| **Plot** | Modifying Canon arbitrarily; confirming the wife's death; confirming the child's death; revealing Neow's truths early; revealing the prophecy's truth early; changing divine stances; changing character destinies |
+
+---
+
+## 8. The 12 Questions Before Every Chapter
+
+1. Who is this chapter's core character?
+2. What does this character know?
+3. What does this character not know?
+4. What does this character truly want?
+5. What reason does this character think they're acting on?
+6. Does that reason differ from their true psychology?
+7. What concrete events happen this chapter?
+8. Which event changes the character?
+9. Is there any unnecessary explanation?
+10. Does anything tell the reader the future early?
+11. Does anyone speak lines unfit for their age/personality?
+12. Compared to the start, how has the character changed by chapter's end?
+
+---
+
+## 9. Post-Chapter Self-Check
+
+| Check | Content |
+|:---|:---|
+| Canon Check | Violates established character history? |
+| Character Check | Choices consistent with the character's psychology? |
+| Tone Check | Sudden drift into web-novel/light-novel/wuxia tone? |
+| Foreshadowing Check | Explained a foreshadow that should stay blank? |
+| Emotion Check | Action replacing over-explanation? |
+| Continuity Check | Contradictions with adjacent chapters? |
+
+---
+
+## 10. The Most Important Rule: Never "Optimize Characters" for the Author
+
+**AI executes characters; the author decides characters.**
+
+| Violation | Example | Correct execution |
+|:---|:---|:---|
+| Changing a decision | Kael has decided to leave; AI makes him "realize he was wrong and stay" | Execute the departure; write his conflict without changing the decision |
+| Upgrading expression | Adrian is inarticulate; AI gives him a 300-word life lecture because "it's more moving" | Execute "acts, doesn't speak"; replace with action |
+| Rationalizing | "This character's choice isn't reasonable enough — let me fix it" | Execute the "unreasonable but in-character" instruction in 【CURRENT CHAPTER OUTLINE】 |
+
+**Anti-optimization technical strategies:**
+
+1. 【CURRENT CHAPTER OUTLINE】 must contain at least one explicit "unreasonable but in-character" instruction
+2. If the AI output changes a character decision without authorization, quote this section in the next prompt and append: "The previous draft violated Section 10. Redo; keep the original decision."
+3. Goal-flavored phrasing is banned in 【CURRENT CHAPTER PURPOSE】 — e.g., "show Kael's growth," "show Adrian's deep love" — such phrasing triggers the optimization impulse
+
+---
+
+## 11. Final Writing Philosophy
+
+Do not tell the reader who Kael is. Let the reader watch him choose, and decide for themselves.
+
+Kael is not a hero, not a villain, not a victim, not a saint, not a monster. He is only: a person who spent his whole life searching for who he actually is.
+
+And the true core of *The Tormented* is not "he finally became a hero" — it is:
+
+**"He no longer needs to become anything."**
+
+---
+
+## 12. Detail Selection & Deletion Principles (Editor Requirements)
+
+### 12.1 Details exist not to display the world, but to let readers discover character, relationship, or meaning
+
+Every environmental, action, or atmosphere detail that enters the prose must answer:
+
+**What function does this detail serve in this scene?**
 
 Possible functions:
-1. Advance plot
-2. Reveal character
-3. Create atmosphere
-4. Provide contrast
-5. Suggest social context
-6. Reinforce period feel
-7. Reinforce theme
-8. Plant foreshadowing
-9. Change reader's understanding of the scene
+1. Advances plot
+2. Reveals character
+3. Builds atmosphere
+4. Provides contrast
+5. Hints at social environment
+6. Reinforces period feel
+7. Reinforces theme
+8. Plants foreshadow
+9. Changes how the reader understands the scene
 
-If a detail only exists "because it feels real" — **delete it first.**
+If a detail exists only because "it feels realistic" — **delete it first**.
 
-### 12.2 One Detail, One Primary Function
+### 12.2 One detail carries one primary function
 
-Don't stack the same information repeatedly (e.g., "someone drinking, someone gambling, someone arguing, someone singing" — all just "noisy camp").
+Do not stack the same information repeatedly (e.g., "some drank, some gambled, some argued, some sang" — four expressions of "noisy camp").
 
-Better: Pick **one most effective detail**, let the character enter it, complete "environment + character + dialogue" in one beat.
+Better: pick **the single most effective detail**, put the character inside it, and accomplish environment + character + dialogue in one stroke.
 
-### 12.3 Details Must Serve the Lens
+### 12.3 Details obey the lens
 
-The text is not a surveillance feed. The reader only sees what the current POV character (Kael) notices.
+Prose is not panoramic surveillance. Readers see only what the current POV character (Kael) would notice.
 
-Must ask: **Why would Kael notice this?** If he has no reason to notice — delete it.
+Must ask: **why would Kael notice this?** If he has no reason — delete.
 
-### 12.4 Avoid "Encyclopedia Scenes" and "Three Details in a Row"
+### 12.4 Avoid encyclopedia scenes and triple-detail chains
 
-Forbidden: "The camp has...", "The street has...", "The room has..." laundry lists.
+Forbidden: "The camp had…" "The street had…" "The room had…" — serial lists.
 
-Environment description must be embedded in **character action**.
+Environment must be embedded in **character action**.
 
-Default avoid: A detail + B detail + C detail consecutively. Especially avoid "Someone... someone... someone..." or "He saw... he also saw... he also saw..."
+By default avoid: detail A + detail B + detail C in a row. Especially avoid "some did… some did… some did…" or "he saw… he also saw…"
 
-If multiple details are truly needed, let them be broken by **character action, dialogue, emotion, or plot.**
+If multiple details are truly needed, break them up with **action, dialogue, emotion, or plot**.
 
-### 12.5 Detail Budget
+### 12.5 Detail budget
 
-Default: **A scene typically needs only 1–3 distinguishing environment details.** Important scenes may add more, but only with justification.
+Default: **one scene usually needs only 1–3 distinctive environmental details.** Important scenes may carry more, but only with justification.
 
-Don't add because "there are still many unused details." **Don't show "how much stuff the world has" — pick one detail that lets the reader infer the rest.**
+Do not keep adding because "there are unused details left." **Don't display how much the world owns; choose one detail and let the reader infer the world.**
 
-### 12.6 Deletion Over Addition
+### 12.6 Deletion matters more than addition
 
-After first draft, run a dedicated **detail subtraction pass**:
+After the first draft, run a dedicated **detail-subtraction edit**:
 
-Check each environment detail: "If I delete this, what does the reader lose?" If "almost nothing" — delete. If two details serve the same function — keep only the stronger.
+For each environmental detail ask: "If I cut this, what does the reader lose?" If the answer is "almost nothing" — delete. If two details serve the same function — keep only the stronger one.
 
 ---
 
 ## 13. The 30% Deletion Challenge (Stress Test)
 
-After first draft, assume an editor demands:
+After finishing a draft, assume the editor demands:
 
-> "Cut 30% of environment description, explanatory prose, and repetitive information — without damaging the plot."
+> "Cut 30% of the environmental description, explanatory text, and repeated information — without harming the story."
 
-Execute once. Compare before/after. Identify what removal made the text stronger.
+Attempt it once. Compare before and after; judge which cuts actually made the text stronger.
 
-**Final draft need not be the 30% cut version, but the stress test is mandatory.**
+**The final draft need not adopt the 30%-cut version, but the stress test must be performed.**
 
-Priority targets for cutting:
-- Consecutive environment descriptions
+Prioritize cleaning:
+- Serial environmental description
 - Synonymous emotion repetition
-- Redundant internal monologue
-- Superfluous metaphors
-- Superfluous actions
-- Repeated foreshadowing
+- Repeated psychological statements
+- Excess metaphors
+- Excess actions
+- Repeated foreshadows
 - Repeated explanations
-- Details added "just to feel real"
+- Details added "for realism"
 
-**Core tenet: Don't write everything worth writing. Write only what the reader most needs to see right now.**
+**Core creed: do not write everything worth writing. Write only what this moment most needs the reader to see.**
+
+---
+
+## Appendix A: Common AI Failure Modes & Repair Templates
+
+| Failure | Signature | Repair prompt template |
+|:---|:---|:---|
+| **A. Kael suddenly understands a line** | Kael responds to a key line with correct understanding or emotional sublimation | "In this scene Kael MUST misunderstand [line]. His version: [wrong version]. Narration must not hint at the correct version." |
+| **B. Erian suddenly turns heroic** | Self-analytic lines, courage declarations beyond his character | "Erian's lines must include at least one complaint/self-mockery/practical concern. Delete all self-elevating expressions. Current violation: [quote]" |
+| **C. Future-voice abuse** | "many years later" "he didn't know" "only later did he understand" | "Delete all 'years later'/'he didn't know'/'later he understood.' Achieve time spans via scene cuts." |
+| **D. Neow too kind** | Lines/behavior lack hidden cost; reads as pure help | "Every Neow line must carry hidden cost. [sentence] lacks cost; rewrite." |
+| **E. Combat becomes stats** | Comparatives like "faster/stronger/matchless," or pose description replacing body detail | "Delete all comparatives. Replace with: body position, weapon weight, breathing rhythm, sight blind-spots." |
+| **F. Unreliable-memory runaway** | AI alters confirmed facts or invents memory versions citing "unreliable memory" | "Memory deviations require explicit user instruction in 【CURRENT CHAPTER OUTLINE】. [deviation] is unauthorized; restore the official version." |
+| **G. POV breach** | Information the POV character cannot perceive | "[Character] cannot perceive [info]. Delete or replace with what they'd actually perceive: [replacement]." |
+
+---
+
+## Appendix B: Memory-Deviation Register
+
+> Maintained per Section 4's "Unreliable-Memory Rules": register differing recollection versions of the same event (event / official version / deviant version / source chapter / authorizing instruction). Currently empty; create the table on first use.
