@@ -341,4 +341,11 @@
 - **Docs**: `第三卷 战争之子.md` (Ch4 appended); `README.md` + both bibles §3 status rows now 第一～四章成稿.
 - **Verification**: UTF-8 no BOM; "师父" zero; no future-time words.
 
+**#40 (2026-08-21) — Added `EDITOR_PROTOCOL.md` (Author Opinion Review Protocol / editor-role document)**
+
+- **Content**: committed verbatim per the author — dual identity (author/reader), no mechanical flattery, the 8-step analysis flow for new ideas (intent → character consistency → character arc → theme → dramatic value → freshness → alternatives → execution), explicit-confirmation rule for Canon changes, fact-fix vs creative-suggestion distinction, guardrails against author-power-fantasies / tragedy escalation / "cooling up" Kael, AI may oppose the author while final authority stays with the author, opinion levels LEVEL 0–5 (higher level = analyze first, execute later).
+- **Workflow**: from this entry on, every session must first read: all volume manuscripts, `小说大纲.md`, `STORY_BIBLE.md` and `EDITOR_PROTOCOL.md` (the standing order is also written into the workspace AGENTS.md so it survives across sessions).
+- **Docs**: new `EDITOR_PROTOCOL.md`; `README.md` content list now includes it.
+- **Note**: the Volume 3 Chapter 2 split structure is author-approved; titles and the fragmentary-retelling design await confirmation before prose rewriting (related uncommitted changes remain in the working tree).
+
 ---
