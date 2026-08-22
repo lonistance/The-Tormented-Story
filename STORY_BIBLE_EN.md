@@ -1,7 +1,7 @@
 # 《The Tormented》AI Writing Story Bible v2.0 (with this repo's Canon additions)
 
 > This document is the single governing file for all chapter creation from now on. When creating a new chapter, organize input per "Usage"; while writing, check item by item against "The 12 Questions" and "Post-Chapter Self-Check".
-> This edition uses the author-provided v2.0 as its skeleton, merges the repo's existing Canon additions (Neow three-truths enumeration, the Torlen "can't read it" note, Kael's Misunderstanding Chain instances, Detail Selection & Deletion Principles, 30% Deletion Challenge), and updates its pre-split stale references to the post-CHANGELOG-#41 state (103 chapters, Day 2 split, fragmentary retelling, 0/0/0/1).
+> This edition uses the author-provided v2.0 as its skeleton, merges the repo's existing Canon additions (Neow three-truths enumeration, the Torlen "can't read it" note, Kael's Misunderstanding Chain instances, Detail Selection & Deletion Principles, 30% Deletion Challenge), and updates its pre-split stale references to the post-CHANGELOG-#41 state (104 chapters, Day 2 split, fragmentary retelling, 0/0/0/1).
 
 ---
 
@@ -92,7 +92,7 @@ Adrian "the sword isn't for killing" → Kael hears "my sword isn't strong enoug
 |:---|:---|:---|:---|:---|
 | I | Blood-Stained Child | Birth ~12 | TBD | ✅ 7 chapters polished (per #28) |
 | II | Sword-Bearing Child | 12~18 | TBD | ✅ 15 chapters done |
-| III | War Child | 18~25 | 0/0/0/1 (Chs 1–3 zero each, Ch 4 once) | Chs 1–4 drafted (3-day induction: Day 2 split into two chapters + glory misreading, appended per chapter) |
+| III | War Child | 18~25 | 0/0/0/1 (Chs 1–3 zero each, Ch 4 once) | Chs 1–7 drafted (appended per chapter) |
 | IV | Defying Gods, Death God Born | 25~40 | TBD | Not started |
 | V | Man Who Forgot the Sword | 40+ ~ decades | TBD | Not started |
 | VI | Man Who Lost Home | Happiness Ends | TBD | Not started |
@@ -115,7 +115,7 @@ Adrian "the sword isn't for killing" → Kael hears "my sword isn't strong enoug
 | VI | (TBD) |
 | VII | (TBD) |
 
-- Outline in `novel_outline.md` (7 volumes, 103 chapters); before revising prose, cross-check with outline chapter positioning.
+- Outline in `novel_outline.md` (7 volumes, 104 chapters); before revising prose, cross-check with outline chapter positioning.
 - Chapter division is for reference only and may be adjusted at any time (but requires the user's consent).
 
 ---
@@ -177,7 +177,7 @@ Adrian "the sword isn't for killing" → Kael hears "my sword isn't strong enoug
 
 | Position | Content | Status |
 |:---|:---|:---|
-| Vol III Ch 14 | "I remember you." (War God to Erian; Erian doesn't grasp it; Kael absent or unaware) | Hooked |
+| Vol III Ch 15 | "I remember you." (War God to Erian; Erian doesn't grasp it; Kael absent or unaware) | Hooked |
 | Vol IV Ch 6 | "He lost to the God. But he didn't betray himself." | Pending |
 | Vol IV Ch 7 | "I remembered a mortal. It wasn't you." (War God to Kael) | Pending |
 | Vol V Ch 2 | "Once in my life I was brave. Once was enough." (Erian's own account) | Pending |
@@ -354,7 +354,7 @@ The knight wanted to teach Kael "how to use a sword"; the real tragedy is that h
 
 ### Vol III Erian Reset Thread (CHANGELOG #25)
 
-The ordinary-survivor characterization runs through Vol III Chs 6, 8, 9, 12, 13, 14, 16 and Vol IV Chs 6–7, Vol V Ch 2.
+The ordinary-survivor characterization runs through Vol III Chs 7, 9, 10, 13, 14, 15, 17 and Vol IV Chs 6–7, Vol V Ch 2.
 
 ### Vol III "Three-Day Induction" Setting (final; Day 2 split into two chapters on 2026-08-21)
 
@@ -383,14 +383,14 @@ Dual-layer structure:
 
 **"Red-Mark Child" seed:** echoes Vol I Ch 4; long-line setup for Vol IV.
 
-**Downstream shifts:** Ch 5 absorbs the old Ch-3 long-form glory material; Ch 6, formerly "Meeting Erian," becomes *Do You Want to Die?* (chase-rescue = bond-forming night, not first meeting). Chapter division is for reference only and may be adjusted at any time (but requires the user's consent).
+**Downstream shifts:** Ch 5 *He Misunderstood Acceptance*; Ch 6 *Entrust Your Lives to Me* (ambush & comrades' trust); Ch 7, formerly "Meeting Erian," becomes *Do You Want to Die?* (chase-rescue = bond-forming night, not first meeting). Chapter division is for reference only and may be adjusted at any time (but requires the user's consent).
 
 ### Erian–Kael Relationship Stages (Vol III)
 
 | Chapter | Stage | Function |
 |:---|:---|:---|
 | Ch 1 | First contact | Functional interaction (soup-grabbing at dinner = character display; no emotional bond) |
-| Ch 6 *Do You Want to Die?* | Bond forms | Functional → emotional (chase-rescue = trust established) |
+| Ch 7 *Do You Want to Die?* | Bond forms | Functional → emotional (chase-rescue = trust established) |
 | Later chapters | Consolidation and contrast | — |
 
 ---

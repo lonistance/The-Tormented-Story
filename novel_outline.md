@@ -1,7 +1,7 @@
 # The Tormented (The Condemned) — Full-Length Novel Detailed Outline
 
 > Expanded from *Story Setting*. All original settings are retained; names, places, objects, and plot details newly added in this outline are marked 【tentative】 and may be adjusted at any time.
-> The whole work spans seven volumes, 103 chapters. Each chapter provides: a one-line synopsis, scene expansion, key lines, chapter twist, foreshadow/callback, and writing notes.
+> The whole work spans seven volumes, 104 chapters. Each chapter provides: a one-line synopsis, scene expansion, key lines, chapter twist, foreshadow/callback, and writing notes.
 > Chapter division is for reference only and may be adjusted at any time (but requires the user's consent).
 
 ---
@@ -369,7 +369,7 @@ A half-blood child born and branded a "calamity" spends his life proving he is n
 
 - Time: about 18~25 years old
 - Core character: the veteran Erian Sol — an ordinary man dragged into war. He has no grand ideals and is no idealist; his homeland was destroyed by war, and he joined the army for one reason only: to fill his stomach. As a victim of war, he has witnessed countless deaths and the dehumanization war causes; among everyone Kael knows, he is the only one who saw through the nature of war and was never brainwashed. He possesses nearly all of an ordinary man's flaws: he fears death, and he deserted once; but he never betrayed his humanity — he prioritizes saving the wounded, even "enemies," and refuses senseless slaughter. He is the antithesis of the battlefield "Death God" Kael: "the ordinary man surviving desperation."
-- Contrast Foreshadow (the whole book): The War God's only remembered mortal is not Kael (strongest, fights without knowing why) but Erian (weakest, dares to stand against Him). — Hooked in Vol III Chs 13-14, paid off in Vol IV Ch 7 and Vol V Ch 2.
+- Contrast Foreshadow (the whole book): The War God's only remembered mortal is not Kael (strongest, fights without knowing why) but Erian (weakest, dares to stand against Him). — Hooked in Vol III Chs 14-15, paid off in Vol IV Ch 7 and Vol V Ch 2.
 - Theme: a child who wants to prove he is not a monster eventually becomes the monster people speak of
 - Volume theme sentence: "He heard everyone tell him the sword cannot bring peace. But he only heard one sentence: your sword is still not strong enough."
 - End-of-volume state: He still holds goodness, but chooses to suppress it. Belief: "As long as I'm strong enough, I can prove everyone wrong."
@@ -453,21 +453,33 @@ A half-blood child born and branded a "calamity" spends his life proving he is n
 - Foreshadow/callback: Vol IV's "They love the Death God, not Kael" is this chapter magnified; "Red-Mark Child" stands alongside "The Condemned" (Vol VII).
 - Writing notes: No major events in this chapter — all interior drama plus small details; it is the volume's positioning anchor.
 
-### Chapter 6 Do You Want to Die? (formerly "Meeting Erian")
+### Chapter 6 Entrust Your Lives to Me
 
-- One line: "Do you want to die?" "I just want to win."
-- Note: Erian's first appearance is already in Chapter 1's supper (grabbing soup), and the nickname "Long-Legged Doctor" already appears in Chapter 1; this chapter is no longer a first meeting, but the night when the two's "bond of life and death" takes shape.
+- One line: Ordered by the lieutenant to lead an ambush, he wins the skirmish and saves the wounded, but turns his comrades' trust and cheers into a reason he must never stop.
 - Scene expansion:
-  1. In a pursuit operation, Kael breaks from the column and goes deep into enemy territory alone, nearly killed.
-  2. The veteran Erian saves him — not out of loyalty, but habit: he has saved too many people to remember. He bandages calmly, and speaks calmly.
-  3. Erian: "Do you want to die?" Kael: "I just want to win." Erian: "In war, those two are usually the same."
-  4. The two become comrades-in-arms — Erian is the only man who dares tell him the truth.
-- Key lines: Erian: "In war, those two are usually the same."
-- Chapter twist: Kael meets his first "friend who speaks the truth."
-- Foreshadow/callback: Erian and the knight form "two men who speak the truth"; Kael fails to understand both times. The habit of saving people regardless of friend or foe — the reason he stands before the surrendering soldiers in Chapter 9. In dialogue with Chs 1-2's soup-grabbing and bandaging: the friendship begins with "cursing each other."
-- Writing notes: The friendship of two soldiers begins with "cursing"; write their understanding without needing words. Erian's eyes must be "like an ordinary man who has seen too many dead" — weary, not numb.
+  1. Orders and position: The lieutenant assigns Kael to lead four veteran/wounded soldiers to Muddy Ditch to block scouting stragglers. Kael relies on hunting instinct to judge wind directions and sets an ambush in a dead corner of a gravel hollow; an old soldier shares barley flatbread ("Pad your belly, keep your hand steady").
+  2. Ambush and highlight: Seven stragglers advance into the dry ditch; Kael holds until the leader steps onto a loose blue stone, then leaps out, severing the leader's throat in one strike; in close melee a dying enemy counterattacks and skewers a limping soldier's thigh; Kael stomps the enemy's throat, and the rest flee.
+  3. Treatment and euphoria: Kael tears his undershirt to bind and tourniquet the wound tightly; the surviving comrades slap his back hard, shouting "Red-Mark lad, the lieutenant wasn't blind, you saved our lives!" wanting to share wine back at camp.
+  4. Psychological alienation and hook: Standing in the pool of blood, the heavy blows and cheers burn Kael's chest like fire ("They entrusted their lives to me... tomorrow blood will spill again"); his right hand grips the sword hilt, staring at the shadows fleeing into the northern forest — deciding to scale the ridge alone in pursuit.
+- Key lines: Old soldier: "Red-Mark lad! You saved our lives!" / Kael (inwardly): "They entrusted their lives to me."
+- Chapter twist: From "personal display of valor" to "excessive burden and alienated responsibility" — comrades' trust becomes the fuel for his self-deception, driving him toward recklessness and the abyss.
+- Foreshadow/callback: Battlefield application of hunting instinct (Gar's teaching "lying downwind is how you take lives"); the heavy burden of "entrust your lives to me" directly triggers the insubordinate pursuit in Chapter 7; the final hand-on-hilt hook connects seamlessly with Chapter 7's opening.
+- Writing notes: Ambush scale must remain tiny (5-man outpost skirmish); strictly forbid grand tactical command; comrades' cheers and gratitude must carry gritty, muddy realism; actions and sensory details lead, no narrator summary.
 
-### Chapter 7 Erian Saw His Past
+### Chapter 7 Do You Want to Die?
+
+- One line: "Do you want to die?" "I just wanted to win."
+- Scene expansion:
+  1. Insubordinate pursuit: Ignoring the veterans' shouts, Kael pursues the limping straggler alone to the stone ledge behind Black Stone Ridge, falling into an ambush set by three rearguard diehards; in intense melee his left ribs are slashed and he rolls into a stream, submerging in icy water with spears probing inches from his face.
+  2. Bluff rescue: Erian rolls boulders down from the ridge top, roaring a bluff that "the main squad holds the cliff," scaring the enemy away; he slides down the slope, dragging Kael onto the bank like a grain sack, gagging him with a stick to dress the wound.
+  3. Life-and-death interrogation: By a tiny fire under a rock overhang, Kael argues "taking the leader ensures peace for the valley"; Erian counters "what comes after peace... do you want to die?" Kael: "I just wanted to win." Erian: "In war, those two are usually the same."
+  4. Return, punishment, and tacit bond: At dawn Erian supports Kael's wounded side all the way back; the lieutenant confines Kael for five days and assigns him to the stables; at supper Kael queues for a large bowl of hot soup and brings it to Erian at his medicine pot, who drinks it in one gulp: "Next time you act reckless, give word beforehand, so I don't haul an empty basket across the hills."
+- Key lines: Erian: "In war, those two are usually the same." / Erian: "Next time you act reckless over the ridge, give word beforehand."
+- Chapter twist: Kael experiences the limit of power and the cost of recklessness for the first time, gaining his first veteran friend who speaks the truth.
+- Foreshadow/callback: Erian and the knight form "two truth-tellers"; the habit of saving people regardless of friend or foe (saving Kael on impulse) — the reason he stands before the surrendering soldiers in Chapter 10; queuing to deliver hot soup echoes Chapter 1's soup-grabbing.
+- Writing notes: Capture the suffocating desperation underwater; Erian's rescue must have zero heroism (done on impulse, hands faster than head); dialogue plain as bookkeeping.
+
+### Chapter 8 Erian Saw His Past
 
 - One line: "You're not fighting for victory. You're proving something."
 - Scene expansion:
@@ -479,7 +491,7 @@ A half-blood child born and branded a "calamity" spends his life proving he is n
 - Foreshadow/callback: "Proving" is the book's first verb, not replaced until Vol VII's "I cannot change the past, but I can bear the future."
 - Writing notes: A dialogue chapter, restrained; let silence carry most of the emotion.
 
-### Chapter 8 Erian's Past
+### Chapter 9 Erian's Past
 
 - One line: "Every enemy I killed left a new enemy behind."
 - Scene expansion:
@@ -492,7 +504,7 @@ A half-blood child born and branded a "calamity" spends his life proving he is n
 - Foreshadow/callback: This sentence completes its echo in Vol VI as "You always choose war, so war follows you."
 - Writing notes: Erian's telling must be plain, like an old soldier's murmur after drinking — no grievance, no tears, just bookkeeping.
 
-### Chapter 9 The First Conflict
+### Chapter 10 The First Conflict
 
 - One line: Kael wants to slaughter the surrendering soldiers; Erian stands in front of him.
 - Scene expansion:
@@ -506,7 +518,7 @@ A half-blood child born and branded a "calamity" spends his life proving he is n
 - Foreshadow/callback: Kael's eventual "not acting" — the remnant of goodness; Vol V's "subduing and releasing the bandits" is the fulfilled version of this moment. Erian deserted once — precisely because he ran, he knows which line he cannot run from.
 - Writing notes: The conflict is intense but brief; after the anger comes silence. Erian's courage must be written as "blocking with trembling hands," not "chin held high."
 
-### Chapter 10 The Knight's Words Return
+### Chapter 11 The Knight's Words Return
 
 - One line: "Your sword is strong. But you must know when not to use it." — He mishears again.
 - Scene expansion:
@@ -519,7 +531,7 @@ A half-blood child born and branded a "calamity" spends his life proving he is n
 - Foreshadow/callback: "When not to use it" — Kael only truly masters it in Vol VI when he deflects his blade.
 - Writing notes: This chapter is the confluence of misunderstandings; keep the structure clean.
 
-### Chapter 11 The End of War
+### Chapter 12 The End of War
 
 - One line: He wins honor, yet no one asks him if he's tired.
 - Scene expansion:
@@ -532,7 +544,7 @@ A half-blood child born and branded a "calamity" spends his life proving he is n
 - Foreshadow/callback: Vol IV's "hollow victory" is this chapter magnified; "no one asks if you're tired" contrasts with Vol V's wife asking "what are you afraid of."
 - Writing notes: Write all the glitter of the banquet scene, all the loneliness of the night scene.
 
-### Chapter 12 Erian's Departure
+### Chapter 13 Erian's Departure
 
 - One line: "You still have time. Because you haven't lost everything yet."
 - Scene expansion:
@@ -544,7 +556,7 @@ A half-blood child born and branded a "calamity" spends his life proving he is n
 - Foreshadow/callback: Only after losing everything in Vol VI does Kael understand the weight of this sentence — "still have time" is a truth Erian verified with his whole life.
 - Writing notes: The farewell scene is short, but make the reader remember Erian. His leaving has no ritual of awakening — he's just a man who, at last, no longer has to fight.
 
-### Chapter 13 Erian Challenges the God
+### Chapter 14 Erian Challenges the God
 
 - One line: He has run his whole life. Only this time, he forgot to run.
 - Scene expansion:
@@ -553,10 +565,10 @@ A half-blood child born and branded a "calamity" spends his life proving he is n
   3. Erian climbs the mountain alone and faces the god. The hand gripping the sword trembles — just as it did when he stood before the surrendering soldiers.
 - Key lines: Erian (inwardly): "I'm afraid. But even afraid, I have to stand here."
 - Chapter twist: The book's first "mortal challenges a god" — yet the challenger is a man known as a coward.
-- Foreshadow/callback: Paving the way for Kael's challenge in Chapter 15 — the same act, the opposite motive; the contrast foreshadow is hooked: the War God's only remembered mortal is not Kael (strongest, fights without knowing why) but Erian (weakest, dares to stand against Him).
+- Foreshadow/callback: Paving the way for Kael's challenge in Chapter 17 — the same act, the opposite motive; the contrast foreshadow is hooked: the War God's only remembered mortal is not Kael (strongest, fights without knowing why) but Erian (weakest, dares to stand against Him).
 - Writing notes: Skim over the challenge itself; focus on the "why" — his "why" contains no grand philosophy.
 
-### Chapter 14 The God Did Not Kill Him
+### Chapter 15 The God Did Not Kill Him
 
 - One line: "You knew you would lose." "The people I saved are over there."
 - Scene expansion:
@@ -569,7 +581,7 @@ A half-blood child born and branded a "calamity" spends his life proving he is n
 - Foreshadow/callback: The contrast foreshadow formally lands: the War God's only remembered mortal is not Kael (strongest, fights without knowing why) but Erian (weakest, dares to stand against Him). Paid off in Vol IV Ch 7, Vol V Ch 2, and the Vol VII finale.
 - Writing notes: The God's image makes its first formal appearance; mind the characterization — His acknowledgment is not generous; He has given it only a few times in His life.
 
-### Chapter 15 Kael Hears of It
+### Chapter 16 Kael Hears of It
 
 - One line: Everyone is saying "he lost"; only Kael hears "even he couldn't do it."
 - Scene expansion:
@@ -581,7 +593,7 @@ A half-blood child born and branded a "calamity" spends his life proving he is n
 - Foreshadow/callback: One of the book's most important "misreadings," leading directly to Vol IV's fall.
 - Writing notes: Keep this chapter short, but give the decision its full weight.
 
-### Chapter 16 The First Challenge of a God
+### Chapter 17 The First Challenge of a God
 
 - One line: He gives everything in the fight; the god doesn't even take it seriously.
 - Scene expansion:
@@ -594,7 +606,7 @@ A half-blood child born and branded a "calamity" spends his life proving he is n
 - Foreshadow/callback: Vol VII's road to the Spire is the terminus of this thread. The contrast foreshadow half-pays off: in the god's memory there is a man who sought no glory (Erian); the man before Him now, seeking glory, He does not remember.
 - Writing notes: Write the fight as "despair," not "spectacle."
 
-### Chapter 17 The God's Dismissal
+### Chapter 18 The God's Dismissal
 
 - One line: "Your sword is sharp. But your heart is too loud."
 - Scene expansion:
@@ -607,7 +619,7 @@ A half-blood child born and branded a "calamity" spends his life proving he is n
 - Foreshadow/callback: When Kael faces "what the sword cannot solve" in the Blight of Vol VII, this sentence echoes again.
 - Writing notes: This line must be driven into the reader's heart like a nail.
 
-### Chapter 18 The Choice After Defeat
+### Chapter 19 The Choice After Defeat
 
 - One line: "The sword isn't wrong. My sword just isn't strong enough."
 - Scene expansion:
@@ -1039,7 +1051,7 @@ A half-blood child born and branded a "calamity" spends his life proving he is n
   3. The villagers are stunned: "Why?" Kael: "Because I know what a life changed by the sword looks like."
   4. He truly inherits the knight for the first time — "the sword can protect, but it must not define a life."
 - Key lines: Kael: "Because I know what a life changed by the sword looks like."
-- Chapter twist: The reversal of Vol III Ch 9's "slaughtering surrendering soldiers" — the same Kael, two choices.
+- Chapter twist: The reversal of Vol III Ch 10's \"slaughtering surrendering soldiers\" — the same Kael, two choices.
 - Foreshadow/callback: The answer to Vol I's "why kill beasts" is rewritten at this moment — he no longer needs to prove.
 - Writing notes: The action is clean and crisp; the focus is the villagers' reaction after the bandits are released.
 
