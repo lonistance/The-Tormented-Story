@@ -1,0 +1,14 @@
+﻿character_arrange
+drafts
+CHANGELOG.md
+CHANGELOG.zh-CN.md
+EDITOR_PROTOCOL.md
+file_list.txt
+novel_outline.md
+README.md
+STORY_BIBLE.md
+STORY_BIBLE_EN.md
+小说大纲.md
+第一卷 血痕之子.md
+第三卷 战争之子.md
+第二卷 持剑的孩子.md
